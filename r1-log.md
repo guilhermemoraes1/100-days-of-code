@@ -5,7 +5,7 @@
 |:---:|:-----:|:---:|:-----:|
 |[Day 1](#day-1) - **05/10/23**|Python, HTML, BootStrap|[Day 2](#day-2) - **05/11/23**|Python, HTML, CSS|
 |[Day 3](#day-3) - **05/12/23**|Python, HTML, CSS|[Day 4](#day-4) - **05/13/23**|Python, HTML, CSS, JavaScript|
-|[Day 5](#day-5) - **05/14/23**|Python, HTML, CSS|[Day 6](#day-6) - **05/15/23**|Python, HTML, CSS|
+|[Day 5](#day-5) - **05/14/23**|Python, HTML, CSS, BIG O|[Day 6](#day-6) - **05/15/23**|Python, HTML, CSS|
 ----------
 <a name="day-1"></a>
 ### Day 1: May 10, 2023
@@ -20,7 +20,7 @@
 - Na udemy, estou fazendo um curso de ED e aprendi a manipular arquivos de texto no colab.
  
  Links:
- - [Projeto da freeCodeCamp](https://t.co/Xb3iyz4Bwm)
+ - [Cat Photo App](https://t.co/Xb3iyz4Bwm)
  - [Manipular arquivos de texto](https://colab.research.google.com/drive/1U1QKPvpDqTyHrfSV7BQRZZDEcFxAvTjz#scrollTo=88YBtde1f-Gr)
  
  [Table of Contents](#toc)
@@ -33,7 +33,7 @@
 - Na faculdade, eu enviei o algoritmo que eu tinha começado ontem da aula de estrutura de dados, que era sobre implementar um TAD de um cliente e vendedor.
 
 Links:
-- [Projeto da freeCodeCamp](https://t.co/xLc59w7ocm)
+- [Cafe Menu](https://t.co/xLc59w7ocm)
 
  [Table of Contents](#toc)
  
@@ -46,7 +46,7 @@ Links:
 Tá bem legal
 
 Links:
-- [Projeto da freeCodeCamp](https://t.co/DScVCzR9Ll)
+- [Colored Markers](https://t.co/DScVCzR9Ll)
 
  [Table of Contents](#toc)
  
@@ -58,7 +58,7 @@ Links:
 - Depois tive que fazer uma task de JavaScript da faculdade, a parte visual foi ok, mas apanhei bastante do JS, mas pelo menos no fim deu certo.
 
 Links:
-- [Projeto da freeCodeCamp](https://t.co/UqlyfDzZkV)
+- [Registration Form](https://t.co/UqlyfDzZkV)
 
  [Table of Contents](#toc)
  
@@ -66,11 +66,21 @@ Links:
  <a name="day-5"></a>
 ### Day 5: May 14, 2023
 
+- No vídeo da udemy, foi abordado o conceito de notação BIG O, já tinha ouvido falar, mas agora entendi melhor o que é.
+- E o site de hoje foi outro form, mas nesse eu usei mais CSS.
+
 Links:
-- [Projeto da freeCodeCamp]()
+- [Survey Form](https://survey-form.guilhermem0.repl.co/)
 
  [Table of Contents](#toc)
  
 ----------
  <a name="day-6"></a>
 ### Day 6: May 15, 2023
+
+Links:
+- []()
+
+ [Table of Contents](#toc)
+ 
+----------
