@@ -5,7 +5,7 @@
 |:---:|:-----:|:---:|:-----:|
 |[Day 1](#day-1) - **05/10/23**|Python, HTML, BootStrap|[Day 2](#day-2) - **05/11/23**|Python, HTML, CSS|
 |[Day 3](#day-3) - **05/12/23**|Python, HTML, CSS|[Day 4](#day-4) - **05/13/23**|Python, HTML, CSS, JavaScript|
-|[Day 5](#day-5) - **05/14/23**|Python, HTML, CSS, BIG O|[Day 6](#day-6) - **05/15/23**|Python, HTML, CSS|
+|[Day 5](#day-5) - **05/14/23**|Python, HTML, CSS, BIG O|[Day 6](#day-6) - **05/15/23**|Python, HTML, CSS, Box model, Flexbox|
 ----------
 <a name="day-1"></a>
 ### Day 1: May 10, 2023
