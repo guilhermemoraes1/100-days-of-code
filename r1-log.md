@@ -60,6 +60,7 @@ Links:
 
 Links:
 - [Registration Form](https://t.co/UqlyfDzZkV)
+- [Semana7Atividade2](https://semana7atividade2.guilhermem0.repl.co/)
 
  [Table of Contents](#toc)
  
