@@ -6,6 +6,7 @@
 |[Day 1](#day-1) - **05/10/23**|Python, HTML, BootStrap|[Day 2](#day-2) - **05/11/23**|Python, HTML, CSS|
 |[Day 3](#day-3) - **05/12/23**|Python, HTML, CSS|[Day 4](#day-4) - **05/13/23**|Python, HTML, CSS, JavaScript|
 |[Day 5](#day-5) - **05/14/23**|Python, HTML, CSS, BIG O|[Day 6](#day-6) - **05/15/23**|Python, HTML, CSS, Box model, Flexbox|
+|[Day 7](#day-7) - **05/16/23**|Python, HTML, CSS|
 ----------
 <a name="day-1"></a>
 ### Day 1: May 10, 2023
@@ -77,6 +78,19 @@ Links:
 ----------
  <a name="day-6"></a>
 ### Day 6: May 15, 2023
+
+- O conceito abordado no curso de ED foi vetor não ordenado.
+- E fiz 2 projetinhos pequenos na @freeCodeCamp com foco em box model e flexbox.
+
+Links:
+- [Rothko Painting](https://rothko-painting.guilhermem0.repl.co)
+- [Photo Gallery](https://photo-gallery.guilhermem0.repl.co)
+
+ [Table of Contents](#toc)
+ 
+----------
+ <a name="day-7"></a>
+### Day 7: May 16, 2023
 
 Links:
 - []()
