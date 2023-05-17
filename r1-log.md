@@ -3,10 +3,10 @@
 ### Table of Contents 
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
-|[Day 1](#day-1) - **05/10/23**|Python, HTML, BootStrap|[Day 2](#day-2) - **05/11/23**|Python, HTML, CSS|
-|[Day 3](#day-3) - **05/12/23**|Python, HTML, CSS|[Day 4](#day-4) - **05/13/23**|Python, HTML, CSS, JavaScript|
-|[Day 5](#day-5) - **05/14/23**|Python, HTML, CSS, BIG O|[Day 6](#day-6) - **05/15/23**|Python, HTML, CSS, Box model, Flexbox|
-|[Day 7](#day-7) - **05/16/23**|Python, HTML, CSS|
+|[Day 1](#day-1) **05/10/23**|Python, HTML, BootStrap|[Day 2](#day-2) **05/11/23**|Python, HTML, CSS|
+|[Day 3](#day-3) **05/12/23**|Python, HTML, CSS|[Day 4](#day-4) **05/13/23**|Python, HTML, CSS, JavaScript|
+|[Day 5](#day-5) **05/14/23**|Python, HTML, CSS, BIG O|[Day 6](#day-6) **05/15/23**|Python, HTML, CSS, Box model, Flexbox|
+|[Day 7](#day-7) **05/16/23**|Python, HTML, CSS, Vetores Ordenados|[Day 8](#day-8) **05/17/23**|Python, HTML, CSS|
 ----------
 <a name="day-1"></a>
 ### Day 1: May 10, 2023
@@ -93,8 +93,13 @@ Links:
  <a name="day-7"></a>
 ### Day 7: May 16, 2023
 
+- Comecei a ver a teoria de vetores ordenados usando implementações de inserção, pesquisa e exclusão, no curso de Estrutura de dados.
+- Fiz um site de rótulo nutricional usando HTML e CSS, usei bastante divisões com a propriedade border.
+
+
+
 Links:
-- []()
+- [Nutrition Label](https://nutrition-label.guilhermem0.repl.co/)
 
  [Table of Contents](#toc)
  
