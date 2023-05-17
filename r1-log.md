@@ -20,6 +20,10 @@
 - Na faculdade, eu usei boostrap e na disciplina de estrutura de dados fiz um algoritmo em python usando funções.
 - Na udemy, estou fazendo um curso de ED e aprendi a manipular arquivos de texto no colab.
  
+ <!---
+image
+-->
+ 
  Links:
  - [Cat Photo App](https://t.co/Xb3iyz4Bwm)
  - [Manipular arquivos de texto](https://colab.research.google.com/drive/1U1QKPvpDqTyHrfSV7BQRZZDEcFxAvTjz#scrollTo=88YBtde1f-Gr)
@@ -32,6 +36,10 @@
 
 - Comecei outro projeto na freeCodeCamp de um site sobre menu de restaurante(:coffee:), mas dessa vez além de HTML também usei CSS. 
 - Na faculdade, eu enviei o algoritmo que eu tinha começado ontem da aula de estrutura de dados, que era sobre implementar um TAD de um cliente e vendedor.
+
+ <!---
+image
+-->
 
 Links:
 - [Cafe Menu](https://t.co/xLc59w7ocm)
@@ -46,6 +54,10 @@ Links:
 - No curso da udemy, eu aprendi sobre expressões regulares, um conceito que não tinha visto antes e também orientação a objetos. Eu tenho gostado dessa metodologia, onde eu assisto os vídeos e depois tem um exercício pra fazer.
 Tá bem legal
 
+ <!---
+image
+-->
+
 Links:
 - [Colored Markers](https://t.co/DScVCzR9Ll)
 
@@ -57,6 +69,10 @@ Links:
 
 - Fiz um formulário na [freeCodeCamp](https://www.freecodecamp.org/learn).
 - Depois tive que fazer uma task de JavaScript da faculdade, a parte visual foi ok, mas apanhei bastante do JS, mas pelo menos no fim deu certo.
+
+ <!---
+image
+-->
 
 Links:
 - [Registration Form](https://t.co/UqlyfDzZkV)
@@ -71,6 +87,10 @@ Links:
 - No vídeo da udemy, foi abordado o conceito de notação BIG O, já tinha ouvido falar, mas agora entendi melhor o que é.
 - E o site de hoje foi outro form, mas nesse eu usei mais CSS.
 
+ <!---
+image
+-->
+
 Links:
 - [Survey Form](https://survey-form.guilhermem0.repl.co/)
 
@@ -82,6 +102,10 @@ Links:
 
 - O conceito abordado no curso de ED foi vetor não ordenado.
 - E fiz 2 projetinhos pequenos na @freeCodeCamp com foco em box model e flexbox.
+
+ <!---
+image
+-->
 
 Links:
 - [Rothko Painting](https://rothko-painting.guilhermem0.repl.co)
@@ -96,10 +120,27 @@ Links:
 - Comecei a ver a teoria de vetores ordenados usando implementações de inserção, pesquisa e exclusão, no curso de Estrutura de dados.
 - Fiz um site de rótulo nutricional usando HTML e CSS, usei bastante divisões com a propriedade border.
 
-
+ <!---
+image
+-->
 
 Links:
 - [Nutrition Label](https://nutrition-label.guilhermem0.repl.co/)
+
+ [Table of Contents](#toc)
+ 
+----------
+ <a name="day-8"></a>
+### Day 8: May 17, 2023
+
+- O projeto de hoje foi um questonário com foco em acessibilidade, é muito importante o desenvolvedor garantir com que todos os users tenham a mesma experiência independente de alguma limitação que a pessoa tenha.
+
+<!---
+image
+-->
+
+Links:
+- [Accessibility Quiz](https://accessibility-quiz.guilhermem0.repl.co/)
 
  [Table of Contents](#toc)
  
