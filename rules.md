@@ -1,25 +1,28 @@
-# Rules of the 100 Days Of Code Challenge
+# Regras do desafio 100 Days Of Code
 
-## Main Commitment
-### *I will code for at least an hour every day for the next 100 days.*
+## Compromisso principal
 
-#### Start Date
-May 10th, 2023. [PUT YOUR DATE HERE]
+### *Eu irei programar por, pelo menos, uma hora por dia pelos próximos 100 dias.*
 
-## Additional Rules
-1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
-2. If I code at work, that time won't count towards the challenge.
-3. I will push code to GitHub every day so that anyone can see my progress.
-4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
-5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))
+#### Data de início
 
+May 10th, 2023. [COLOQUE SUA DATA AQUI]
 
-## Ideas to make this challenge more effective
-1. To increase the chances of success, it's a requirement that you add a link to each of the day posts in the [log](log.md). It can be a link to a commit on GitHub, a link to a blog post
-2. If you get upset or stuck, read this article: [Learning to Code: When It Gets Dark](https://www.freecodecamp.org/news/learning-to-code-when-it-gets-dark-e485edfb58fd/)
-3. If you don't know why there is such an emphasis on working on the projects vs doing tutorials or online courses, read this: [How to Get a Developer Job in Less Than a Year](https://www.freecodecamp.org/news/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645/)
-4. If you can't push your code to GitHub for some reason (e.g. if you're only starting to code and doing interactive exercises), provide a link to a tweet. You can think of something else as long as your challenge stays public - and you get the benefit of being committed to it and accountable for your progress.
-5. Another good bonus of forking this repo -> if you haven't worked with Markdown before, it's a good way to practice.
+## Regras adicionais
+
+1. Eu irei twittar sobre meu progresso diariamente -> usando a hashtag #100DaysOfCode
+2. Se eu programar no trabalho, não irei considerar esse tempo como parte do desafio.
+3. Eu irei enviar meu código para o GitHub todo dia para que qualquer pessoa possa ver meu progresso.
+4. Eu irei atualizar o (Log)[log.md] com meu progresso diário e irei providenciar um link para que outros possam ver meu progresso.
+5. Eu irei trabalhar em projetos reais, com desafios verdadeiros. O tempo que usar vendo tutoriais, cursos online e outros recursos similares NÃO irão contar para o desafio. (Caso você esteja aprendendo a programar, leia [LEIA-ME](LEIAME.md))
+
+## Ideias para fazer esse desafio ser mais eficiente
+
+1. Para aumentar as chances de sucesso, é requerido que você adicione o link de cada dia de posts no [log](log.md). Pode ser um link do commit no GitHub ou um link para um artigo de blog.
+2. Se você perder a paciência ou ficar travado, leia esse artigo: [Learning to Code: When It Gets Dark](https://www.freecodecamp.org/news/learning-to-code-when-it-gets-dark-e485edfb58fd)
+3. Se você não sabe o motivo da ênfase de trabalhar em projetos reais, em relação aos tutoriais ou cursos online, leia isso: [How to Get a Developer Job in Less Than a Year](https://www.freecodecamp.org/news/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645)
+4. Se você não puder enviar seu código para o GitHub por alguma razão (por exemplo, se você estiver aprendendo a programar ou estiver resolvendo exercícios interativos), forneça um link para o tweet. É fundamental manter seu desafio publicamente - você será beneficiado de estar comprometido com o desafio e com o registro do seu progresso publicado.
+5. Outro benefício de dar um fork neste repositório -> se você nunca trabalhou com Markdown anteriormente, é um bom modo de praticar.
 
 ## Contents
 * [Rules](rules.md)
