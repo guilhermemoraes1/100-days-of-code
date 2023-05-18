@@ -134,6 +134,7 @@ Links:
 ### Day 8: May 17, 2023
 
 - O projeto de hoje foi um questonário com foco em acessibilidade, é muito importante o desenvolvedor garantir com que todos os users tenham a mesma experiência independente de alguma limitação que a pessoa tenha.
+- Comecei a ver como funciona uma pesquina binária em um vetor ordenado na udemy.
 
 <!---
 image
