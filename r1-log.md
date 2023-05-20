@@ -7,6 +7,8 @@
 |[Day 3](#day-3) **05/12/23**|Python, HTML, CSS|[Day 4](#day-4) **05/13/23**|Python, HTML, CSS, JavaScript|
 |[Day 5](#day-5) **05/14/23**|Python, HTML, CSS, BIG O|[Day 6](#day-6) **05/15/23**|Python, HTML, CSS, Box model, Flexbox|
 |[Day 7](#day-7) **05/16/23**|Python, HTML, CSS, Vetores Ordenados|[Day 8](#day-8) **05/17/23**|Python, HTML, CSS|
+|[Day 9](#day-9) **05/18/23**|Python, HTML, CSS, Vetores Ordenados|[Day 10](#day-10) **05/18/23**|Python, HTML, CSS|
+|[Day 11](#day-11) **05/20/23**|Python, HTML, CSS|[Day 12](#day-12) **05/21/23**||
 ----------
 <a name="day-1"></a>
 ### Day 1: May 10, 2023
@@ -146,3 +148,46 @@ Links:
  [Table of Contents](#toc)
  
 ----------
+ <a name="day-9"></a>
+### Day 9: May 18, 2023
+
+
+
+<!---
+image
+-->
+
+Links:
+- []()
+
+ [Table of Contents](#toc)
+ 
+----------
+ <a name="day-10"></a>
+### Day 10: May 19, 2023
+
+
+
+<!---
+image
+-->
+
+Links:
+- []()
+
+ [Table of Contents](#toc)
+ 
+ ----------
+  <a name="day-11"></a>
+### Day 11: May 20, 2023
+
+
+
+<!---
+image
+-->
+
+Links:
+- []()
+
+ [Table of Contents](#toc)
