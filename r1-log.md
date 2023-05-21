@@ -3,12 +3,12 @@
 ### Table of Contents 
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
-|[Day 1](#day-1) **05/10/23**|Python, HTML, BootStrap|[Day 2](#day-2) **05/11/23**|Python, HTML, CSS|
-|[Day 3](#day-3) **05/12/23**|Python, HTML, CSS|[Day 4](#day-4) **05/13/23**|Python, HTML, CSS, JavaScript|
-|[Day 5](#day-5) **05/14/23**|Python, HTML, CSS, BIG O|[Day 6](#day-6) **05/15/23**|Python, HTML, CSS, Box model, Flexbox|
-|[Day 7](#day-7) **05/16/23**|Python, HTML, CSS, Vetores Ordenados|[Day 8](#day-8) **05/17/23**|Python, HTML, CSS|
-|[Day 9](#day-9) **05/18/23**|Python, HTML, CSS, Vetores Ordenados|[Day 10](#day-10) **05/18/23**|Python, HTML, CSS|
-|[Day 11](#day-11) **05/20/23**|Python, HTML, CSS|[Day 12](#day-12) **05/21/23**||
+|[Day 01](#day-1) **05/10/23**|Python, HTML, BootStrap|[Day 02](#day-2) **05/11/23**|Python, HTML, CSS|
+|[Day 03](#day-3) **05/12/23**|Python, HTML, CSS|[Day 04](#day-4) **05/13/23**|Python, HTML, CSS, JavaScript|
+|[Day 05](#day-5) **05/14/23**|Python, HTML, CSS, BIG O|[Day 06](#day-6) **05/15/23**|Python, HTML, CSS, Box model, Flexbox|
+|[Day 07](#day-7) **05/16/23**|Python, HTML, CSS, Vetores Ordenados|[Day 08](#day-8) **05/17/23**|Python, HTML, CSS, Ferramentas de acessibilidade|
+|[Day 09](#day-9) **05/18/23**|Python, HTML, CSS|[Day 10](#day-10) **05/18/23**|Python, HTML, CSS, Pseduo-classes|
+|[Day 11](#day-11) **05/20/23**|Python, HTML, Ícones SVG, CSS position|[Day 12](#day-12) **05/21/23**|Python, HTML, CSS|
 ----------
 <a name="day-1"></a>
 ### Day 1: May 10, 2023
@@ -151,14 +151,12 @@ Links:
  <a name="day-9"></a>
 ### Day 9: May 18, 2023
 
-
+- Comecei a fazer uma página de tributo na @freeCodeCamp, mas ñ consegui terminar. E hoje foi só isso, tive outras coisas importantes pra fazer, como ir no banco.
+- Mas amanhã vou tentar me organizar melhor pra estudar mais.
 
 <!---
 image
 -->
-
-Links:
-- []()
 
  [Table of Contents](#toc)
  
@@ -166,14 +164,22 @@ Links:
  <a name="day-10"></a>
 ### Day 10: May 19, 2023
 
-
+- Terminei a página de tributo da @freeCodeCamp, que comecei ontem, e fiz outra de folha de saldo, esse último foi bastante focado em usar diferentes tipos de pseduo-classes, por exemplo:
+  - span[class~="sr-only"]
+  - h1 .flex
+  - h1 .flex span:first-of-type
+  - h1 .flex span:last-of-type
+  - #years span[class]
+  - tr.total td:nth-of-type(3)
+ 
 
 <!---
 image
 -->
 
 Links:
-- []()
+- [Tribute Page](https://tribute-page.guilhermem0.repl.co)
+- [Balance Sheet](https://balance-sheet.guilhermem0.repl.co)
 
  [Table of Contents](#toc)
  
@@ -181,7 +187,24 @@ Links:
   <a name="day-11"></a>
 ### Day 11: May 20, 2023
 
+- Fiz um projeto bem diferente hoje, que foi criar um site baseado em um pintura de Picasso(🎨), focado em posicionamento e ícones SVG. Então, tive que usar bastante CSS, foi sem dúvidas o dia que eu mais escrevi CSS.
+  - Eu achei divertido, porque em mais de 250 linhas de código CSS, eu só usei 15 propriedades, por isso consegui entender bem o que eu  tava fazendo, mas foi bem cansativo.
+- E também, respondi uma tarefa da faculdade, que era pra estruturar um site no http://Repl.it da mesma
+forma que tava no GitHub e fazer vários comentários nele.
 
+<!---
+image
+-->
+
+Links:
+- [Picasso Paiting](https://picasso-painting.guilhermem0.repl.co/)
+- [CafeAppLis](https://replit.com/@GuilhermeM0/CafeAppLis)
+
+ [Table of Contents](#toc)
+ 
+ ----------
+  <a name="day-12"></a>
+### Day 12: May 21, 2023
 
 <!---
 image
@@ -189,5 +212,7 @@ image
 
 Links:
 - []()
-
+- 
  [Table of Contents](#toc)
+ 
+ ----------
