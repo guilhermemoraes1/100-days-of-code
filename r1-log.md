@@ -8,7 +8,7 @@
 |[Day 05](#day-5) **05/14/23**|Python, HTML, CSS, BIG O|[Day 06](#day-6) **05/15/23**|Python, HTML, CSS, Box model, Flexbox|
 |[Day 07](#day-7) **05/16/23**|Python, HTML, CSS, Vetores Ordenados|[Day 08](#day-8) **05/17/23**|Python, HTML, CSS, Ferramentas de acessibilidade|
 |[Day 09](#day-9) **05/18/23**|Python, HTML, CSS|[Day 10](#day-10) **05/18/23**|Python, HTML, CSS, Pseduo-classes|
-|[Day 11](#day-11) **05/20/23**|Python, HTML, Ícones SVG, CSS position|[Day 12](#day-12) **05/21/23**|Python, HTML, CSS|
+|[Day 11](#day-11) **05/20/23**|Python, HTML, Ícones SVG, CSS position|[Day 12](#day-12) **05/21/23**|Python, HTML, CSS, Pesquisa binária|
 ----------
 <a name="day-1"></a>
 ### Day 1: May 10, 2023
@@ -206,13 +206,29 @@ Links:
   <a name="day-12"></a>
 ### Day 12: May 21, 2023
 
+- Fiz um projetinho criando uma imagem de piano(🎹), só com HTML e CSS.
+- E terminei de ver sobre binary search, na parte de teoria, implementação e debug, e ainda consegui entender as diferenças de um vetor ordenado para um não ordenado.
+
+<!---
+image
+-->
+
+Links:
+- [Piano](https://piano.guilhermem0.repl.co/)
+
+ [Table of Contents](#toc)
+ 
+ ----------
+  <a name="day-13"></a>
+### Day 13: May 22, 2023
+
 <!---
 image
 -->
 
 Links:
 - []()
-- 
+
  [Table of Contents](#toc)
  
  ----------
