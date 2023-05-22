@@ -22,9 +22,7 @@
 - Na faculdade, eu usei boostrap e na disciplina de estrutura de dados fiz um algoritmo em python usando funções.
 - Na udemy, estou fazendo um curso de ED e aprendi a manipular arquivos de texto no colab.
  
- <!---
-image
--->
+![Day 1](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day1.png?raw=true)
  
  Links:
  - [Cat Photo App](https://t.co/Xb3iyz4Bwm)
