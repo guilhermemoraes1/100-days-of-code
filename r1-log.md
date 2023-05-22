@@ -21,9 +21,13 @@
 - Foi um projeto bem curto, consegui terminar ele em 1h.
 - Na faculdade, eu usei boostrap e na disciplina de estrutura de dados fiz um algoritmo em python usando funções.
 - Na udemy, estou fazendo um curso de ED e aprendi a manipular arquivos de texto no colab.
- 
+
+
 ![Day 1](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day1.png?raw=true)
- 
+
+<!--
+<img height="800px" src="https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day1.png?raw=true"/>
+--> 
  Links:
  - [Cat Photo App](https://t.co/Xb3iyz4Bwm)
  - [Manipular arquivos de texto](https://colab.research.google.com/drive/1U1QKPvpDqTyHrfSV7BQRZZDEcFxAvTjz#scrollTo=88YBtde1f-Gr)
