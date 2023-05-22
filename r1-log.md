@@ -41,9 +41,7 @@
 - Comecei outro projeto na freeCodeCamp de um site sobre menu de restaurante(:coffee:), mas dessa vez além de HTML também usei CSS. 
 - Na faculdade, eu enviei o algoritmo que eu tinha começado ontem da aula de estrutura de dados, que era sobre implementar um TAD de um cliente e vendedor.
 
- <!---
-image
--->
+![Day 2](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day2-cafeMenu.png?raw=true)
 
 Links:
 - [Cafe Menu](https://t.co/xLc59w7ocm)
