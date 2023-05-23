@@ -24,6 +24,11 @@
 ### Conceitos:
 1. [Expressões regulares (RegEx)](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/r1-log.md#day-3)
 2. [Orientação à objetos](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/r1-log.md#day-3)
+3. [BIG O](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/r1-log.md#day-5)
+4. [Vetor não ordenado](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/r1-log.md#day-6)
+5. [Vetor ordenado](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/r1-log.md#day-7)
+6. Pesquisa binária: [Teoria](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/r1-log.md#day-8), [Implementação](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/r1-log.md#day-12)
+8. [](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/r1-log.md#day-)
 
 ----------
 <a name="algoritmos"></a>
