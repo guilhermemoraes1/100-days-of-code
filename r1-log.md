@@ -57,9 +57,7 @@ Links:
 - No curso da udemy, eu aprendi sobre expressões regulares, um conceito que não tinha visto antes e também orientação a objetos. Eu tenho gostado dessa metodologia, onde eu assisto os vídeos e depois tem um exercício pra fazer.
 Tá bem legal
 
- <!---
-image
--->
+![Day 3](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day3-coloredMarkers7.png?raw=true)
 
 Links:
 - [Colored Markers](https://t.co/DScVCzR9Ll)
