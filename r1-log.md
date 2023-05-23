@@ -9,6 +9,7 @@
 |[Day 07](#day-7) **05/16/23**|Python, HTML, CSS, Vetores Ordenados|[Day 08](#day-8) **05/17/23**|Python, HTML, CSS, Ferramentas de acessibilidade|
 |[Day 09](#day-9) **05/18/23**|Python, HTML, CSS|[Day 10](#day-10) **05/18/23**|Python, HTML, CSS, Pseduo-classes|
 |[Day 11](#day-11) **05/20/23**|Python, HTML, Ícones SVG, CSS position|[Day 12](#day-12) **05/21/23**|Python, HTML, CSS, Pesquisa binária|
+|[Day 13](#day-13) **05/22/23**|Python, HTML, CSS, Pilhas|
 ----------
 <a name="day-1"></a>
 ### Day 1: May 10, 2023
@@ -222,12 +223,8 @@ Links:
   <a name="day-13"></a>
 ### Day 13: May 22, 2023
 
-<!---
-image
--->
-
-Links:
-- []()
+- Comecei um projeto de um site baseado em uma documentação técnica, a parte de HTML tá pronta, só falta acrescentar mais um pouco de CSS.
+- E também comecei a ver sobre pilhas na udemy.
 
  [Table of Contents](#toc)
  
