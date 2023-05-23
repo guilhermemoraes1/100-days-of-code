@@ -39,7 +39,7 @@
 ----------
 <a name="projetos"></a>
 ### Websites
-1. [Cat Photo App](https://t.co/Xb3iyz4Bwm) (freeCodeCamp)
+1. [Cat Photo App](https://t.co/Xb3iyz4Bwm) (freeCodeCamp) [replit](https://replit.com/@GuilhermeM0/Cat-Photo-App)
 2. [Cafe Menu](https://t.co/xLc59w7ocm)
 3. [Colored Markers](https://t.co/DScVCzR9Ll)
 4. [Registration Form](https://t.co/UqlyfDzZkV)
@@ -58,7 +58,19 @@
 <a name="imagens"></a>
 ### Imagens
 1. ![Day 1](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day1.png?raw=true) [Cat Photo App]
-2. ![]()
-3. ![]()
-4. ![]()
-5. ![]()
+2. ![Day 2](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day2-cafeMenu.png) [Cafe Menu]
+
+<!--
+4. ![]() [Colored Markers]
+5. ![]() [Registration Form]
+6. ![]() [Semana7Atividade2]
+7. ![]() [Survey Form]
+8. ![]() [Rothko Painting]
+9. ![]() [Photo Gallery]
+10. ![]() [Nutrition Label]
+11. ![]() [Accessibility Quiz]
+12. ![]() [Tribute Page]
+13. ![]() [Balance Sheet]
+14. ![]() [Picasso Paiting]
+15. ![]() [Piano]
+-->
