@@ -39,20 +39,20 @@
 ----------
 <a name="projetos"></a>
 ### Websites
-1. [Cat Photo App](https://t.co/Xb3iyz4Bwm) (freeCodeCamp) [replit](https://replit.com/@GuilhermeM0/Cat-Photo-App)
-2. [Cafe Menu](https://t.co/xLc59w7ocm)
-3. [Colored Markers](https://t.co/DScVCzR9Ll)
-4. [Registration Form](https://t.co/UqlyfDzZkV)
-5. [Semana7Atividade2](https://semana7atividade2.guilhermem0.repl.co/)
-6. [Survey Form](https://survey-form.guilhermem0.repl.co/)
-7. [Rothko Painting](https://rothko-painting.guilhermem0.repl.co)
-8. [Photo Gallery](https://photo-gallery.guilhermem0.repl.co)
-9. [Nutrition Label](https://nutrition-label.guilhermem0.repl.co/)
-10. [Accessibility Quiz](https://accessibility-quiz.guilhermem0.repl.co/)
-11. [Tribute Page](https://tribute-page.guilhermem0.repl.co)
-12. [Balance Sheet](https://balance-sheet.guilhermem0.repl.co)
-13. [Picasso Paiting](https://picasso-painting.guilhermem0.repl.co/)
-14. [Piano](https://piano.guilhermem0.repl.co/)
+1. [Cat Photo App](https://t.co/Xb3iyz4Bwm) / [code](https://replit.com/@GuilhermeM0/Cat-Photo-App)
+2. [Cafe Menu](https://t.co/xLc59w7ocm) / [code](https://replit.com/@GuilhermeM0/Cafe-Menu)
+3. [Colored Markers](https://t.co/DScVCzR9Ll) / [code](https://replit.com/@GuilhermeM0/Colored-Markers)
+4. [Registration Form](https://t.co/UqlyfDzZkV) / [code](https://replit.com/@GuilhermeM0/Registration-Form)
+5. [Semana7Atividade2](https://semana7atividade2.guilhermem0.repl.co/) / [code](https://replit.com/@GuilhermeM0/Semana7Atividade2)
+6. [Survey Form](https://survey-form.guilhermem0.repl.co/) / [code](https://replit.com/@GuilhermeM0/Survey-form)
+7. [Rothko Painting](https://rothko-painting.guilhermem0.repl.co) / [code](https://replit.com/@GuilhermeM0/Rothko-painting)
+8. [Photo Gallery](https://photo-gallery.guilhermem0.repl.co) / [code](https://replit.com/@GuilhermeM0/Photo-gallery)
+9. [Nutrition Label](https://nutrition-label.guilhermem0.repl.co/) / [code](https://replit.com/@GuilhermeM0/Nutrition-label)
+10. [Accessibility Quiz](https://accessibility-quiz.guilhermem0.repl.co/) / [code](https://replit.com/@GuilhermeM0/Accessibility-quiz)
+11. [Tribute Page](https://tribute-page.guilhermem0.repl.co) / [code](https://replit.com/@GuilhermeM0/Tribute-page)
+12. [Balance Sheet](https://balance-sheet.guilhermem0.repl.co) / [code](https://replit.com/@GuilhermeM0/Balance-sheet)
+13. [Picasso Paiting](https://picasso-painting.guilhermem0.repl.co/) / [code](https://replit.com/@GuilhermeM0/Picasso-painting)
+14. [Piano](https://piano.guilhermem0.repl.co/) / [code](https://replit.com/@GuilhermeM0/Piano)
 
 ----------
 <a name="imagens"></a>
