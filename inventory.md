@@ -5,7 +5,7 @@
 ----------
 |I|II|III|IV|V|VI|
 |:---:|:-----:|:---:|:-----:|:-----:|:-----:|
-|[Linguagens](#linguagens)|[Frameworks](#frameworks)|[Conceitos](#conceitos)|[Algoritmos](#algoritmos)|[Websites](#Websites)|[Imagens](#images)|
+|[Linguagens](#linguagens)|[Frameworks](#frameworks)|[Conceitos](#conceitos)|[Algoritmos](#algoritmos)|[Websites](#websites)|[Imagens](#images)|
 ----------
 
 <a name="linguagens"></a>
@@ -37,7 +37,7 @@
 2. []()
 
 ----------
-<a name="projetos"></a>
+<a name="websites"></a>
 ### Websites
 1. [Cat Photo App](https://t.co/Xb3iyz4Bwm) / [code](https://replit.com/@GuilhermeM0/Cat-Photo-App)
 2. [Cafe Menu](https://t.co/xLc59w7ocm) / [code](https://replit.com/@GuilhermeM0/Cafe-Menu)
@@ -55,7 +55,7 @@
 14. [Piano](https://piano.guilhermem0.repl.co/) / [code](https://replit.com/@GuilhermeM0/Piano)
 
 ----------
-<a name="imagens"></a>
+<a name="images"></a>
 ### Imagens
 1. ![Day 1](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day1.png?raw=true) [Cat Photo App]
 2. ![Day 2](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day2-cafeMenu.png) [Cafe Menu]
