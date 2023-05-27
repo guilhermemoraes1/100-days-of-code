@@ -60,6 +60,10 @@
 12. [Balance Sheet](https://balance-sheet.guilhermem0.repl.co) / [code](https://replit.com/@GuilhermeM0/Balance-sheet)
 13. [Picasso Paiting](https://picasso-painting.guilhermem0.repl.co/) / [code](https://replit.com/@GuilhermeM0/Picasso-painting)
 14. [Piano](https://piano.guilhermem0.repl.co/) / [code](https://replit.com/@GuilhermeM0/Piano)
+15. [Technical Documentaton](https://technical-documentation.guilhermem0.repl.co/) / [code]()
+16. [City Skyline](https://city-skyline.guilhermem0.repl.co/) / [code]()
+17. [Magazine](https://magazine.guilhermem0.repl.co/) / [code]()
+18. [Product Landing Page](https://product-landing-page.guilhermem0.repl.co/) / [code]()
 
 ----------
 <a name="images"></a>
