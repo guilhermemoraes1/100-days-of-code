@@ -74,12 +74,12 @@
 8. ![Day 6](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day6-photoGallery.png?raw=true) [Photo Gallery]
 9. ![Day 7](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day7-nutritionLabel.png?raw=true) [Nutrition Label]
 10. ![Day 8](https://api.apify.com/v2/key-value-stores/Ady5d8R9K9auMJXfe/records/accessibility-quiz.guilhermem0.repl.co-scroll_original) [Accessibility Quiz]
-16. ![Day 10](https://api.apify.com/v2/key-value-stores/yJrDnpR6YyDILpJw4/records/tribute-page.guilhermem0.repl.co-scroll_lossy-comp) [Tribute Page]
-17. ![Day 10](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day10-balanceSheet.png?raw=true) [Balance Sheet]
-18. ![]() [Picasso Paiting]
-19. ![]() [Piano]
-![](https://api.apify.com/v2/key-value-stores/EmpYJIjKK4sPM3JQy/records/technical-documentation.guilhermem0.repl.co-scroll_original) [Technical Documentaton]
-![](https://api.apify.com/v2/key-value-stores/uowDLoVyohFBVAmDb/records/magazine.guilhermem0.repl.co-scroll_original) []
-![](https://api.apify.com/v2/key-value-stores/6UviDF7Zi9wU7bgyG/records/product-landing-page.guilhermem0.repl.co-scroll_original) 
-![]() 
-![]() 
+11. ![Day 10](https://api.apify.com/v2/key-value-stores/yJrDnpR6YyDILpJw4/records/tribute-page.guilhermem0.repl.co-scroll_lossy-comp) [Tribute Page]
+12. ![Day 10](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day10-balanceSheet.png?raw=true) [Balance Sheet]
+13. ![Day 11](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day11-picassoPainting.png?raw=true) [Picasso Paiting]
+14. ![Day 12](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day12-piano.png?raw=true) [Piano]
+15. ![Day 14](https://api.apify.com/v2/key-value-stores/EmpYJIjKK4sPM3JQy/records/technical-documentation.guilhermem0.repl.co-scroll_original) [Technical Documentaton]
+16. ![Day 15](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day15-citySkyline.png?raw=true) [City Skyline]
+17. ![Day 16](https://api.apify.com/v2/key-value-stores/uowDLoVyohFBVAmDb/records/magazine.guilhermem0.repl.co-scroll_original) [Magazine]
+18. ![Day 17](https://api.apify.com/v2/key-value-stores/6UviDF7Zi9wU7bgyG/records/product-landing-page.guilhermem0.repl.co-scroll_original) [Product Landing Page]
+
