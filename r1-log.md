@@ -71,6 +71,8 @@ Links:
 - Depois tive que fazer uma task de JavaScript da faculdade, a parte visual foi ok, mas apanhei bastante do JS, mas pelo menos no fim deu certo.
 
 ![Day 4](https://api.apify.com/v2/key-value-stores/8BpIQUS2g79AmyFmt/records/registration-form.guilhermem0.repl.co-scroll_original)
+-
+![Day 4](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day4-semana7.png?raw=true)
 
 Links:
 - [Registration Form](https://t.co/UqlyfDzZkV)
@@ -85,7 +87,7 @@ Links:
 - No vídeo da udemy, foi abordado o conceito de notação BIG O, já tinha ouvido falar, mas agora entendi melhor o que é.
 - E o site de hoje foi outro form, mas nesse eu usei mais CSS.
 
-[]()
+![Day 5](https://api.apify.com/v2/key-value-stores/ICh7hjyiE8VJLzaei/records/survey-form.guilhermem0.repl.co-scroll_lossy-comp)
 
 Links:
 - [Survey Form](https://survey-form.guilhermem0.repl.co/)
@@ -99,9 +101,9 @@ Links:
 - O conceito abordado no curso de ED foi vetor não ordenado.
 - E fiz 2 projetinhos pequenos na @freeCodeCamp com foco em box model e flexbox.
 
- <!---
-image
--->
+![Day 6](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day6-rothkoPainting.png?raw=true)
+-
+![Day 6](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day6-photoGallery.png?raw=true) 
 
 Links:
 - [Rothko Painting](https://rothko-painting.guilhermem0.repl.co)
@@ -116,9 +118,7 @@ Links:
 - Comecei a ver a teoria de vetores ordenados usando implementações de inserção, pesquisa e exclusão, no curso de Estrutura de dados.
 - Fiz um site de rótulo nutricional usando HTML e CSS, usei bastante divisões com a propriedade border.
 
- <!---
-image
--->
+![Day 7](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day7-nutritionLabel.png?raw=true) 
 
 Links:
 - [Nutrition Label](https://nutrition-label.guilhermem0.repl.co/)
@@ -132,9 +132,7 @@ Links:
 - O projeto de hoje foi um questonário com foco em acessibilidade, é muito importante o desenvolvedor garantir com que todos os users tenham a mesma experiência independente de alguma limitação que a pessoa tenha.
 - Comecei a ver como funciona uma pesquina binária em um vetor ordenado na udemy.
 
-<!---
-image
--->
+![Day 8](https://api.apify.com/v2/key-value-stores/Ady5d8R9K9auMJXfe/records/accessibility-quiz.guilhermem0.repl.co-scroll_original)
 
 Links:
 - [Accessibility Quiz](https://accessibility-quiz.guilhermem0.repl.co/)
@@ -147,10 +145,6 @@ Links:
 
 - Comecei a fazer uma página de tributo na @freeCodeCamp, mas ñ consegui terminar. E hoje foi só isso, tive outras coisas importantes pra fazer, como ir no banco.
 - Mas amanhã vou tentar me organizar melhor pra estudar mais.
-
-<!---
-image
--->
 
  [Table of Contents](#toc)
  
@@ -166,10 +160,9 @@ image
   - #years span[class]
   - tr.total td:nth-of-type(3)
  
-
-<!---
-image
--->
+![Day 10](https://api.apify.com/v2/key-value-stores/yJrDnpR6YyDILpJw4/records/tribute-page.guilhermem0.repl.co-scroll_lossy-comp)
+-
+![Day 10](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day10-balanceSheet.png?raw=true) 
 
 Links:
 - [Tribute Page](https://tribute-page.guilhermem0.repl.co)
