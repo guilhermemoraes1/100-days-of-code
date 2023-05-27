@@ -10,7 +10,8 @@
 |[Day 09](#day-9) **05/18/23**|Python, HTML, CSS|[Day 10](#day-10) **05/18/23**|Python, HTML, CSS, Pseduo-classes|
 |[Day 11](#day-11) **05/20/23**|Python, HTML, Ícones SVG, CSS position|[Day 12](#day-12) **05/21/23**|Python, HTML, CSS, Pesquisa binária|
 |[Day 13](#day-13) **05/22/23**|Python, HTML, CSS, Pilhas|[Day 14](#day-14) **05/23/23**|Python, HTML, CSS|
-|[Day 15](#day-15) **05/24/23**|Python, HTML, CSS|[Day 16](#day-16) **05/25/23**|Python, HTML, CSS, Pilhas|
+|[Day 15](#day-15) **05/24/23**|Python, HTML, CSS variables, Local Storage|[Day 16](#day-16) **05/25/23**|Python, HTML, CSS, Grid, Pilhas, Listas dinâmicas|
+|[Day 17](#day-17) **05/26/23**|Python, HTML, CSS|[Day 18](#day-18) **05/27/23**|Python, HTML, CSS|
 ----------
 <a name="day-1"></a>
 ### Day 1: May 10, 2023
@@ -209,10 +210,6 @@ Links:
 - Fiz um projetinho criando uma imagem de piano(🎹), só com HTML e CSS.
 - E terminei de ver sobre binary search, na parte de teoria, implementação e debug, e ainda consegui entender as diferenças de um vetor ordenado para um não ordenado.
 
-<!---
-image
--->
-
 Links:
 - [Piano](https://piano.guilhermem0.repl.co/)
 
@@ -231,27 +228,59 @@ Links:
   <a name="day-14"></a>
 ### Day 14: May 23, 2023
 
--
+-Terminei o site que comecei ontem, e já estou perto de terminar o curso de Design responsivo para a web na freeCodeCamp, restam apenas 6 projetos.
 
+Links:
+- [Technical Documentaton](https://technical-documentation.guilhermem0.repl.co/)
 
  [Table of Contents](#toc)
  
-  ----------
+ ----------
   <a name="day-15"></a>
 ### Day 15: May 24, 2023
 
--
+- Aprendi a usar variáveis no css com o seletor :root, no site que fiz com temática de horizonte em uma cidade.
+  - E uma coisa interessante dele é que dependendo do tamanho da tela, as cores do site mudam.
+- Na aula de Linguagem de Script, o professor falou sobre Local Storage, usando ele no repositório da cafeteria em index.js
 
+Links:
+- [Cafeteria](https://github.com/rhavymaia/cafeteria20231)
+- [City Skyline](https://city-skyline.guilhermem0.repl.co/)
 
  [Table of Contents](#toc)
  
-  ----------
+ ----------
  <a name="day-16"></a>
 ### Day 16: May 25, 2023
 
--
+- Criei um site de artigo de revista usando Grid na @freeCodeCamp. 
+- Terminei de ver o conceito de pilhas na udemy.
+- E na faculdade, o professor falou sobre listas dinâmicas.
+
+Links:
+- [Magazine](https://magazine.guilhermem0.repl.co/)
+
+ [Table of Contents](#toc)
+ 
+ ----------
+ <a name="day-17"></a>
+### Day 17: May 26, 2023
+
+O projeto de hoje foi um product landing page,  que gostei bastante do resultado. 
+E desde que comecei a fazer esses sites a partir do dia 1, eu sinto que tenho aprendido cada vez mais CSS.
+
+Links:
+- [Product Landing Page](https://product-landing-page.guilhermem0.repl.co/)
+
+ [Table of Contents](#toc)
+ 
+ ----------
+  <a name="day-18"></a>
+### Day 18: May 27, 2023
+
+Links:
 
 
  [Table of Contents](#toc)
  
-  ----------
+ ----------
