@@ -68,15 +68,25 @@
 2. ![Day 2](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day2-cafeMenu.png?raw=true) [Cafe Menu]
 3. ![Day 3](https://github.com/guilhermemoraes1/100-days-of-code/assets/127672759/5521ce1e-f351-4081-b646-463b988d3b8f) [Colored Markers]
 4. ![Day 4](https://api.apify.com/v2/key-value-stores/8BpIQUS2g79AmyFmt/records/registration-form.guilhermem0.repl.co-scroll_original) [Registration Form]
-7. ![Day 4]() [Semana7Atividade2]
+5. ![Day 4](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day4-semana7.png?raw=true) [Semana7Atividade2]
+6. ![Day 5](https://api.apify.com/v2/key-value-stores/ICh7hjyiE8VJLzaei/records/survey-form.guilhermem0.repl.co-scroll_lossy-comp) [Survey Form]
+
+![wewe]()
+
 <!--
-9. ![Day 5](https://api.apify.com/v2/key-value-stores/ICh7hjyiE8VJLzaei/records/survey-form.guilhermem0.repl.co-scroll_original) [Survey Form]
-10. ![]() [Rothko Painting]
-11. ![]() [Photo Gallery]
-12. ![]() [Nutrition Label]
-13. ![]() [Accessibility Quiz]
-14. ![]() [Tribute Page]
-15. ![]() [Balance Sheet]
-16. ![]() [Picasso Paiting]
-17. ![]() [Piano]
+11. ![]() [Rothko Painting]
+12. ![]() [Photo Gallery]
+13. ![]() [Nutrition Label]
+14. ![Day 8](https://api.apify.com/v2/key-value-stores/Ady5d8R9K9auMJXfe/records/accessibility-quiz.guilhermem0.repl.co-scroll_original) [Accessibility Quiz]
+16. ![](https://api.apify.com/v2/key-value-stores/yJrDnpR6YyDILpJw4/records/tribute-page.guilhermem0.repl.co-scroll_lossy-comp) [Tribute Page]
+17. ![]() [Balance Sheet]
+18. ![]() [Picasso Paiting]
+19. ![]() [Piano]
+![](https://api.apify.com/v2/key-value-stores/EmpYJIjKK4sPM3JQy/records/technical-documentation.guilhermem0.repl.co-scroll_original) [Technical Documentaton]
+![](https://api.apify.com/v2/key-value-stores/uowDLoVyohFBVAmDb/records/magazine.guilhermem0.repl.co-scroll_original) []
+![](https://api.apify.com/v2/key-value-stores/6UviDF7Zi9wU7bgyG/records/product-landing-page.guilhermem0.repl.co-scroll_original) 
+![]() 
+![]() 
+
+
 -->
