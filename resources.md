@@ -66,19 +66,18 @@
 ### Imagens
 1. ![Day 1](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day1.png?raw=true) [Cat Photo App]
 2. ![Day 2](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day2-cafeMenu.png?raw=true) [Cafe Menu]
+3. ![Day 3](https://github.com/guilhermemoraes1/100-days-of-code/assets/127672759/5521ce1e-f351-4081-b646-463b988d3b8f) [Colored Markers]
 
-
-3. ![](https://github.com/guilhermemoraes1/100-days-of-code/assets/127672759/5521ce1e-f351-4081-b646-463b988d3b8f) [Colored Markers]
+4. ![Day 4](https://api.apify.com/v2/key-value-stores/8BpIQUS2g79AmyFmt/records/registration-form.guilhermem0.repl.co-scroll_original) [Registration Form]
 <!--
-5. ![]() [Registration Form]
-6. ![]() [Semana7Atividade2]
-7. ![]() [Survey Form]
-8. ![]() [Rothko Painting]
-9. ![]() [Photo Gallery]
-10. ![]() [Nutrition Label]
-11. ![]() [Accessibility Quiz]
-12. ![]() [Tribute Page]
-13. ![]() [Balance Sheet]
-14. ![]() [Picasso Paiting]
-15. ![]() [Piano]
+7. ![]() [Semana7Atividade2]
+8. ![]() [Survey Form]
+9. ![]() [Rothko Painting]
+10. ![]() [Photo Gallery]
+11. ![]() [Nutrition Label]
+12. ![]() [Accessibility Quiz]
+13. ![]() [Tribute Page]
+14. ![]() [Balance Sheet]
+15. ![]() [Picasso Paiting]
+16. ![]() [Piano]
 -->
