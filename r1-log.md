@@ -28,9 +28,6 @@
 
 ![Day 1](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day1.png?raw=true)
 
-<!--
-<img height="800px" src="https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day1.png?raw=true"/>
---> 
  Links:
  - [Cat Photo App](https://t.co/Xb3iyz4Bwm)
  - [Manipular arquivos de texto](https://colab.research.google.com/drive/1U1QKPvpDqTyHrfSV7BQRZZDEcFxAvTjz#scrollTo=88YBtde1f-Gr)
@@ -73,9 +70,7 @@ Links:
 - Fiz um formulário na [freeCodeCamp](https://www.freecodecamp.org/learn).
 - Depois tive que fazer uma task de JavaScript da faculdade, a parte visual foi ok, mas apanhei bastante do JS, mas pelo menos no fim deu certo.
 
- <!---
-image
--->
+![Day 4](https://api.apify.com/v2/key-value-stores/8BpIQUS2g79AmyFmt/records/registration-form.guilhermem0.repl.co-scroll_original)
 
 Links:
 - [Registration Form](https://t.co/UqlyfDzZkV)
@@ -90,9 +85,7 @@ Links:
 - No vídeo da udemy, foi abordado o conceito de notação BIG O, já tinha ouvido falar, mas agora entendi melhor o que é.
 - E o site de hoje foi outro form, mas nesse eu usei mais CSS.
 
- <!---
-image
--->
+[]()
 
 Links:
 - [Survey Form](https://survey-form.guilhermem0.repl.co/)
