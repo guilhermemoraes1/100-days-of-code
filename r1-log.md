@@ -179,9 +179,7 @@ Links:
 - E também, respondi uma tarefa da faculdade, que era pra estruturar um site no http://Repl.it da mesma
 forma que tava no GitHub e fazer vários comentários nele.
 
-<!---
-image
--->
+![Day 11](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day11-picassoPainting.png?raw=true) 
 
 Links:
 - [Picasso Paiting](https://picasso-painting.guilhermem0.repl.co/)
@@ -195,6 +193,8 @@ Links:
 
 - Fiz um projetinho criando uma imagem de piano(🎹), só com HTML e CSS.
 - E terminei de ver sobre binary search, na parte de teoria, implementação e debug, e ainda consegui entender as diferenças de um vetor ordenado para um não ordenado.
+
+![Day 12](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day12-piano.png?raw=true)
 
 Links:
 - [Piano](https://piano.guilhermem0.repl.co/)
@@ -216,6 +216,8 @@ Links:
 
 -Terminei o site que comecei ontem, e já estou perto de terminar o curso de Design responsivo para a web na freeCodeCamp, restam apenas 6 projetos.
 
+![Day 14](https://api.apify.com/v2/key-value-stores/EmpYJIjKK4sPM3JQy/records/technical-documentation.guilhermem0.repl.co-scroll_original)
+
 Links:
 - [Technical Documentaton](https://technical-documentation.guilhermem0.repl.co/)
 
@@ -228,6 +230,8 @@ Links:
 - Aprendi a usar variáveis no css com o seletor :root, no site que fiz com temática de horizonte em uma cidade.
   - E uma coisa interessante dele é que dependendo do tamanho da tela, as cores do site mudam.
 - Na aula de Linguagem de Script, o professor falou sobre Local Storage, usando ele no repositório da cafeteria em index.js
+
+![Day 15](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day15-citySkyline.png?raw=true)
 
 Links:
 - [Cafeteria](https://github.com/rhavymaia/cafeteria20231)
@@ -243,6 +247,8 @@ Links:
 - Terminei de ver o conceito de pilhas na udemy.
 - E na faculdade, o professor falou sobre listas dinâmicas.
 
+![Day 16](https://api.apify.com/v2/key-value-stores/uowDLoVyohFBVAmDb/records/magazine.guilhermem0.repl.co-scroll_original)
+
 Links:
 - [Magazine](https://magazine.guilhermem0.repl.co/)
 
@@ -254,6 +260,8 @@ Links:
 
 O projeto de hoje foi um product landing page,  que gostei bastante do resultado. 
 E desde que comecei a fazer esses sites a partir do dia 1, eu sinto que tenho aprendido cada vez mais CSS.
+
+![Day 17](https://api.apify.com/v2/key-value-stores/6UviDF7Zi9wU7bgyG/records/product-landing-page.guilhermem0.repl.co-scroll_original)
 
 Links:
 - [Product Landing Page](https://product-landing-page.guilhermem0.repl.co/)
