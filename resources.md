@@ -70,16 +70,12 @@
 4. ![Day 4](https://api.apify.com/v2/key-value-stores/8BpIQUS2g79AmyFmt/records/registration-form.guilhermem0.repl.co-scroll_original) [Registration Form]
 5. ![Day 4](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day4-semana7.png?raw=true) [Semana7Atividade2]
 6. ![Day 5](https://api.apify.com/v2/key-value-stores/ICh7hjyiE8VJLzaei/records/survey-form.guilhermem0.repl.co-scroll_lossy-comp) [Survey Form]
-
-![wewe]()
-
-<!--
-11. ![]() [Rothko Painting]
-12. ![]() [Photo Gallery]
-13. ![]() [Nutrition Label]
-14. ![Day 8](https://api.apify.com/v2/key-value-stores/Ady5d8R9K9auMJXfe/records/accessibility-quiz.guilhermem0.repl.co-scroll_original) [Accessibility Quiz]
-16. ![](https://api.apify.com/v2/key-value-stores/yJrDnpR6YyDILpJw4/records/tribute-page.guilhermem0.repl.co-scroll_lossy-comp) [Tribute Page]
-17. ![]() [Balance Sheet]
+7. ![Day 6](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day6-rothkoPainting.png?raw=true) [Rothko Painting]
+8. ![Day 6](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day6-photoGallery.png?raw=true) [Photo Gallery]
+9. ![Day 7](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day7-nutritionLabel.png?raw=true) [Nutrition Label]
+10. ![Day 8](https://api.apify.com/v2/key-value-stores/Ady5d8R9K9auMJXfe/records/accessibility-quiz.guilhermem0.repl.co-scroll_original) [Accessibility Quiz]
+16. ![Day 10](https://api.apify.com/v2/key-value-stores/yJrDnpR6YyDILpJw4/records/tribute-page.guilhermem0.repl.co-scroll_lossy-comp) [Tribute Page]
+17. ![Day 10](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day10-balanceSheet.png?raw=true) [Balance Sheet]
 18. ![]() [Picasso Paiting]
 19. ![]() [Piano]
 ![](https://api.apify.com/v2/key-value-stores/EmpYJIjKK4sPM3JQy/records/technical-documentation.guilhermem0.repl.co-scroll_original) [Technical Documentaton]
@@ -87,6 +83,3 @@
 ![](https://api.apify.com/v2/key-value-stores/6UviDF7Zi9wU7bgyG/records/product-landing-page.guilhermem0.repl.co-scroll_original) 
 ![]() 
 ![]() 
-
-
--->
