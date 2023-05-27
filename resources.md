@@ -65,10 +65,11 @@
 <a name="images"></a>
 ### Imagens
 1. ![Day 1](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day1.png?raw=true) [Cat Photo App]
-2. ![Day 2](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day2-cafeMenu.png) [Cafe Menu]
+2. ![Day 2](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day2-cafeMenu.png?raw=true) [Cafe Menu]
 
+
+3. ![](https://github.com/guilhermemoraes1/100-days-of-code/assets/127672759/5521ce1e-f351-4081-b646-463b988d3b8f) [Colored Markers]
 <!--
-4. ![]() [Colored Markers]
 5. ![]() [Registration Form]
 6. ![]() [Semana7Atividade2]
 7. ![]() [Survey Form]
