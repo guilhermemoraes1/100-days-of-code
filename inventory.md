@@ -3,9 +3,9 @@
 ## Aqui eu mantenho, tudo que eu usei e criei durante o desafio #100DaysOfCode.
 #### Here I keep everything I used and created during the #100DaysOfCode challenge.
 ----------
-|I|II|III|IV|V|VI|
-|:---:|:-----:|:---:|:-----:|:-----:|:-----:|
-|[Linguagens](#linguagens)|[Frameworks](#frameworks)|[Conceitos](#conceitos)|[Algoritmos](#algoritmos)|[Websites](#websites)|[Imagens](#images)|
+|I|II|III|IV|V|VI|VII|
+|:---:|:-----:|:---:|:-----:|:-----:|:-----:|:-----:|
+|[Linguagens](#linguagens)|[Frameworks](#frameworks)|[Materiais](#materiais)|[Conceitos](#conceitos)|[Algoritmos](#algoritmos)|[Websites](#websites)|[Imagens](#images)|
 ----------
 
 <a name="linguagens"></a>
@@ -20,6 +20,13 @@
 1. BootStrap
 
 ----------
+<a name="materiais"></a>
+### Materiais:
+1. Design responsivo para a web (freeCodeCamp)
+2. Estrutura de Dados e Algoritmos em Python: O Guia Completo (Udemy)
+
+
+----------
 <a name="conceitos"></a>
 ### Conceitos:
 1. [Expressões regulares (RegEx)](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/r1-log.md#day-3)
@@ -28,7 +35,7 @@
 4. [Vetor não ordenado](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/r1-log.md#day-6)
 5. [Vetor ordenado](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/r1-log.md#day-7)
 6. Pesquisa binária: [Teoria](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/r1-log.md#day-8), [Implementação](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/r1-log.md#day-12)
-8. [](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/r1-log.md#day-)
+8. [Pilhas]()
 
 ----------
 <a name="algoritmos"></a>
