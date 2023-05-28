@@ -276,9 +276,9 @@ Links:
 
 - Fiz um projeto pequeno de uma animação css de uma montanha russa, e também fiz um pouco do começo do próximo site.
 - Tirei uma parte do dia pra organizar o repositório do Desafio #100DaysOfCode, colocando imagens e links dos projetos.
-<!--
-![Day 18]()
--->
+
+![Day 18](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day18-ferrisWheel.gif)
+
 Links:
 - [Ferris Wheel](https://ferris-wheel.guilhermem0.repl.co/)
 
