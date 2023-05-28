@@ -12,7 +12,7 @@
 |[Day 13](#day-13) **05/22/23**|Python, HTML, CSS, Pilhas|[Day 14](#day-14) **05/23/23**|Python, HTML, CSS|
 |[Day 15](#day-15) **05/24/23**|Python, HTML, CSS variables, Local Storage|[Day 16](#day-16) **05/25/23**|Python, HTML, CSS, Grid, Pilhas, Listas dinâmicas|
 |[Day 17](#day-17) **05/26/23**|Python, HTML, CSS|[Day 18](#day-18) **05/27/23**|Python, HTML, CSS|
-|[Day 19](#day-19) **05/28/23**|Python, HTML, CSS|
+|[Day 19](#day-19) **05/28/23**|Python, HTML, CSS, Fila|[Day 20](#day-20) **05/29/23**|Python, HTML, CSS|
 ----------
 <a name="day-1"></a>
 ### Day 1: May 10, 2023
@@ -287,11 +287,11 @@ Links:
  ----------
   <a name="day-19"></a>
 ### Day 19: May 28, 2023
-<!--
-![Day 19]()
--->
+
+![Day 19](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day19-penguin.gif)
+
 Links:
-- []()
+- [Penguin](https://penguin.guilhermem0.repl.co/)
 
  [Table of Contents](#toc)
  
