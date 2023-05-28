@@ -60,10 +60,11 @@
 12. [Balance Sheet](https://balance-sheet.guilhermem0.repl.co) / [code](https://replit.com/@GuilhermeM0/Balance-sheet)
 13. [Picasso Paiting](https://picasso-painting.guilhermem0.repl.co/) / [code](https://replit.com/@GuilhermeM0/Picasso-painting)
 14. [Piano](https://piano.guilhermem0.repl.co/) / [code](https://replit.com/@GuilhermeM0/Piano)
-15. [Technical Documentaton](https://technical-documentation.guilhermem0.repl.co/) / [code]()
-16. [City Skyline](https://city-skyline.guilhermem0.repl.co/) / [code]()
-17. [Magazine](https://magazine.guilhermem0.repl.co/) / [code]()
-18. [Product Landing Page](https://product-landing-page.guilhermem0.repl.co/) / [code]()
+15. [Technical Documentaton](https://technical-documentation.guilhermem0.repl.co/) / [code](https://replit.com/@GuilhermeM0/Technical-Documentation)
+16. [City Skyline](https://city-skyline.guilhermem0.repl.co/) / [code](https://replit.com/@GuilhermeM0/City-skyline)
+17. [Magazine](https://magazine.guilhermem0.repl.co/) / [code](https://replit.com/@GuilhermeM0/Magazine)
+18. [Product Landing Page](https://product-landing-page.guilhermem0.repl.co/) / [code](https://replit.com/@GuilhermeM0/Product-landing-page)
+19. [Ferris Wheel](https://ferris-wheel.guilhermem0.repl.co/) / [code](https://replit.com/@GuilhermeM0/Ferris-wheel)
 
 ----------
 <a name="images"></a>
@@ -86,4 +87,4 @@
 16. ![Day 15](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day15-citySkyline.png?raw=true) [City Skyline]
 17. ![Day 16](https://api.apify.com/v2/key-value-stores/uowDLoVyohFBVAmDb/records/magazine.guilhermem0.repl.co-scroll_original) [Magazine]
 18. ![Day 17](https://api.apify.com/v2/key-value-stores/6UviDF7Zi9wU7bgyG/records/product-landing-page.guilhermem0.repl.co-scroll_original) [Product Landing Page]
-
+19. ![Day 18]() [Ferris Wheel]
