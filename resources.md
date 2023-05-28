@@ -65,6 +65,7 @@
 17. [Magazine](https://magazine.guilhermem0.repl.co/) / [code](https://replit.com/@GuilhermeM0/Magazine)
 18. [Product Landing Page](https://product-landing-page.guilhermem0.repl.co/) / [code](https://replit.com/@GuilhermeM0/Product-landing-page)
 19. [Ferris Wheel](https://ferris-wheel.guilhermem0.repl.co/) / [code](https://replit.com/@GuilhermeM0/Ferris-wheel)
+20. [Penguin](https://penguin.guilhermem0.repl.co/) / [code](https://replit.com/@GuilhermeM0/Penguin)
 
 ----------
 <a name="images"></a>
@@ -88,3 +89,4 @@
 17. ![Day 16](https://api.apify.com/v2/key-value-stores/uowDLoVyohFBVAmDb/records/magazine.guilhermem0.repl.co-scroll_original) [Magazine]
 18. ![Day 17](https://api.apify.com/v2/key-value-stores/6UviDF7Zi9wU7bgyG/records/product-landing-page.guilhermem0.repl.co-scroll_original) [Product Landing Page]
 19. ![Day 18](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day18-ferrisWheel.gif) [Ferris Wheel]
+20. ![Day 19](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day19-penguin.gif) [Penguin]
