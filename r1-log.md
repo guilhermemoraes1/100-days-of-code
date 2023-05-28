@@ -12,6 +12,7 @@
 |[Day 13](#day-13) **05/22/23**|Python, HTML, CSS, Pilhas|[Day 14](#day-14) **05/23/23**|Python, HTML, CSS|
 |[Day 15](#day-15) **05/24/23**|Python, HTML, CSS variables, Local Storage|[Day 16](#day-16) **05/25/23**|Python, HTML, CSS, Grid, Pilhas, Listas dinâmicas|
 |[Day 17](#day-17) **05/26/23**|Python, HTML, CSS|[Day 18](#day-18) **05/27/23**|Python, HTML, CSS|
+|[Day 19](#day-19) **05/28/23**|Python, HTML, CSS|
 ----------
 <a name="day-1"></a>
 ### Day 1: May 10, 2023
@@ -234,8 +235,8 @@ Links:
 ![Day 15](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day15-citySkyline.png?raw=true)
 
 Links:
-- [Cafeteria](https://github.com/rhavymaia/cafeteria20231)
 - [City Skyline](https://city-skyline.guilhermem0.repl.co/)
+- [Cafeteria](https://github.com/rhavymaia/cafeteria20231)
 
  [Table of Contents](#toc)
  
@@ -258,8 +259,9 @@ Links:
  <a name="day-17"></a>
 ### Day 17: May 26, 2023
 
-O projeto de hoje foi um product landing page,  que gostei bastante do resultado. 
-E desde que comecei a fazer esses sites a partir do dia 1, eu sinto que tenho aprendido cada vez mais CSS.
+- O projeto de hoje foi um product landing page,  que gostei bastante do resultado. 
+  - E desde que comecei a fazer esses sites a partir do dia 1, eu sinto que tenho aprendido cada vez mais CSS.
+- Fiz uma atividade da faculdade, de criar uma TAD ClasseCliente – Usando Classes Predefinidas Python em estruturas de dados.
 
 ![Day 17](https://api.apify.com/v2/key-value-stores/6UviDF7Zi9wU7bgyG/records/product-landing-page.guilhermem0.repl.co-scroll_original)
 
@@ -272,8 +274,24 @@ Links:
   <a name="day-18"></a>
 ### Day 18: May 27, 2023
 
+- Fiz um projeto pequeno de uma animação css de uma montanha russa, e também fiz um pouco do começo do próximo site.
+- Tirei uma parte do dia pra organizar o repositório do Desafio #100DaysOfCode, colocando imagens e links dos projetos.
+<!--
+![Day 18]()
+-->
 Links:
+- [Ferris Wheel](https://ferris-wheel.guilhermem0.repl.co/)
 
+ [Table of Contents](#toc)
+ 
+ ----------
+  <a name="day-19"></a>
+### Day 19: May 28, 2023
+<!--
+![Day 19]()
+-->
+Links:
+- []()
 
  [Table of Contents](#toc)
  
