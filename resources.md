@@ -22,8 +22,8 @@
 ----------
 <a name="materiais"></a>
 ### Materiais:
-1. Design responsivo para a web (freeCodeCamp)
-2. Estrutura de Dados e Algoritmos em Python: O Guia Completo (Udemy)
+1. [Design responsivo para a web](https://www.freecodecamp.org/portuguese/learn/2022/responsive-web-design/) (freeCodeCamp)
+2. [Estrutura de Dados e Algoritmos em Python: O Guia Completo](https://www.udemy.com/course/estrutura-de-dados-e-algoritmos-python-guia-completo/) (Udemy)
 
 
 ----------
