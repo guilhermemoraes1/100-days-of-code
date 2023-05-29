@@ -288,6 +288,10 @@ Links:
   <a name="day-19"></a>
 ### Day 19: May 28, 2023
 
+- Fiz um projeto de um pinguim acenando, falta só mais um projeto pra terminar o curso de Design Responsivo. E por conta disso comecei outro curso na @freecodecamp de Algoritmos e estruturas de dados em JavaScript.
+- Também Comecei a ver o conceito de filas na udemy.
+- E olhei alguns vídeos no YouTube sobre a camada de rede.
+
 ![Day 19](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day19-penguin.gif)
 
 Links:
