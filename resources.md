@@ -34,8 +34,9 @@
 3. [BIG O](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/r1-log.md#day-5)
 4. [Vetor não ordenado](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/r1-log.md#day-6)
 5. [Vetor ordenado](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/r1-log.md#day-7)
-6. Pesquisa binária: [Teoria](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/r1-log.md#day-8), [Implementação](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/r1-log.md#day-12)
+6. [Pesquisa binária](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/r1-log.md#day-8) / [Implementação](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/r1-log.md#day-12)
 8. [Pilhas]()
+9. [Filas]() / [Filas de prioridade]()
 
 ----------
 <a name="algoritmos"></a>
@@ -91,3 +92,4 @@
 18. ![Day 17](https://api.apify.com/v2/key-value-stores/6UviDF7Zi9wU7bgyG/records/product-landing-page.guilhermem0.repl.co-scroll_original) [Product Landing Page]
 19. ![Day 18](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day18-ferrisWheel.gif) [Ferris Wheel]
 20. ![Day 19](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day19-penguin.gif) [Penguin]
+21 ![Day 20](https://api.apify.com/v2/key-value-stores/inMSwNyksFJofnc5P/records/personal-portfolio.guilhermem0.repl.co-scroll_lossy-comp) [Personal Portfolio]
