@@ -305,9 +305,15 @@ Links:
   <a name="day-20"></a>
 ### Day 20: May 29, 2023
 
+- Terminei o meu primeiro curso na freeCodeCamp de Design Responsivo para a Web, recebi um certificado.
+  - Continuei estudando JS com o curso de ED e também com os vídeos do Cursoemvideo.
+- Aprendi o conceito de fila de prioridade na udemy.
+
+![Day 20](https://api.apify.com/v2/key-value-stores/inMSwNyksFJofnc5P/records/personal-portfolio.guilhermem0.repl.co-scroll_lossy-comp)
 
 Links:
 [Personal Portfolio](https://personal-portfolio.guilhermem0.repl.co/)
+[Certificado](https://www.freecodecamp.org/portuguese/certification/GuilhermeMoraes/responsive-web-design)
 
 [Table of Contents](#toc)
  
