@@ -24,6 +24,8 @@
 ### Materiais:
 1. [Design responsivo para a web](https://www.freecodecamp.org/portuguese/learn/2022/responsive-web-design/) (freeCodeCamp)
 2. [Estrutura de Dados e Algoritmos em Python: O Guia Completo](https://www.udemy.com/course/estrutura-de-dados-e-algoritmos-python-guia-completo/) (Udemy)
+3. [Algoritmos e estruturas de dados em JavaScript](https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/) (freeCodeCamp)
+4. [Curso Grátis de JavaScript e ECMAScript para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) (YouTube)
 
 
 ----------
@@ -35,8 +37,8 @@
 4. [Vetor não ordenado](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/r1-log.md#day-6)
 5. [Vetor ordenado](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/r1-log.md#day-7)
 6. [Pesquisa binária](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/r1-log.md#day-8) / [Implementação](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/r1-log.md#day-12)
-8. [Pilhas]()
-9. [Filas]() / [Filas de prioridade]()
+8. [Pilhas](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/r1-log.md#day-13) <!-- Terminei de ver o conceito de pilhas no dia 16 -->
+9. [Filas](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/r1-log.md#day-19) / [Filas de prioridade](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/r1-log.md#day-20)
 
 ----------
 <a name="algoritmos"></a>
