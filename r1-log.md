@@ -338,7 +338,7 @@ Links:
 - Continuei praticando JavaScript, revendo conceitos como switch e dando aquela brincada com DOM.
 - E na faculdade foi basicamente só o professor explicando tupla.
 
-![Day 22]()
+![Day 22](https://pbs.twimg.com/media/FxgUz5OXoAARKcY?format=png&name=large)
 
 [Table of Contents](#toc)
 
