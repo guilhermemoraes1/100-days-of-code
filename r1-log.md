@@ -13,6 +13,8 @@
 |[Day 15](#day-15) **05/24/23**|Python, HTML, CSS variables, Local Storage|[Day 16](#day-16) **05/25/23**|Python, HTML, CSS, Grid, Pilhas, Listas dinâmicas|
 |[Day 17](#day-17) **05/26/23**|Python, HTML, CSS|[Day 18](#day-18) **05/27/23**|Python, HTML, CSS|
 |[Day 19](#day-19) **05/28/23**|Python, HTML, CSS, JavaScript, Fila|[Day 20](#day-20) **05/29/23**|Python, HTML, CSS, JavaScript, Fila de prioridade|
+|[Day 21](#day-21) **05/30/23**|Python, JavaScript, HTML, CSS, Flask|[Day 22](#day-22) **05/31/23**|Python, HTML, CSS, JavaScript|
+|[Day 23](#day-23) **06/01/23**|Python|
 ----------
 <a name="day-1"></a>
 ### Day 1: May 10, 2023
@@ -312,9 +314,34 @@ Links:
 ![Day 20](https://api.apify.com/v2/key-value-stores/inMSwNyksFJofnc5P/records/personal-portfolio.guilhermem0.repl.co-scroll_lossy-comp)
 
 Links:
-[Personal Portfolio](https://personal-portfolio.guilhermem0.repl.co/)
-[Certificado](https://www.freecodecamp.org/portuguese/certification/GuilhermeMoraes/responsive-web-design)
+- [Personal Portfolio](https://personal-portfolio.guilhermem0.repl.co/)
+- [Certificado](https://www.freecodecamp.org/portuguese/certification/GuilhermeMoraes/responsive-web-design)
 
 [Table of Contents](#toc)
  
  ----------
+  <a name="day-21"></a>
+### Day 21: May 30, 2023
+
+- Continuei meus estudos de JavaScript, revisando a parte básica, como escopo e array, na @freeCodeCamp.
+- E na faculdade, criei um projeto básico de python com a biblioteca flask, é a primeira vez que ouvi falar dela, e no projeto usei junto com um arquivo HTML.
+
+Links:
+- [Flask HTML](https://replit.com/@GuilhermeM0/flaskhtml)
+
+[Table of Contents](#toc)
+ 
+ ----------
+   <a name="day-22"></a>
+### Day 22: May 31, 2023
+
+- Continuei praticando JavaScript, revendo conceitos como switch e dando aquela brincada com DOM.
+- E na faculdade foi basicamente só o professor explicando tupla.
+
+![Day 22]()
+
+[Table of Contents](#toc)
+
+ ----------
+  <a name="day-23"></a>
+### Day 23: June 01, 2023
