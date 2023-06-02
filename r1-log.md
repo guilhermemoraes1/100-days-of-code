@@ -349,8 +349,18 @@ Links:
 - Mais um dia estudando meu JS, e hoje confesso que quebrei a cabeça viu, quando tava tentando colocar um valor dentro de um array que tava dentro de um objeto dentro de outro array. Mas, no final deu certo.
 - E na faculdade o professor de Estrutura falou de dicionário.
 
+![Day 23](https://pbs.twimg.com/media/FxlQzSfWcAADHOX?format=jpg&name=large)
+
 Links:
-[]()
+- [Algoritmo que me fez quase desistir](https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/basic-javascript/record-collection)
+
+[Table of Contents](#toc)
+
+ ----------
+  <a name="day-24"></a>
+### Day 24: June 02, 2023
+
+
 
 [Table of Contents](#toc)
 
