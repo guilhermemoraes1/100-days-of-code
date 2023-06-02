@@ -14,7 +14,7 @@
 |[Day 17](#day-17) **05/26/23**|Python, HTML, CSS|[Day 18](#day-18) **05/27/23**|Python, HTML, CSS|
 |[Day 19](#day-19) **05/28/23**|Python, HTML, CSS, JavaScript, Fila|[Day 20](#day-20) **05/29/23**|Python, HTML, CSS, JavaScript, Fila de prioridade|
 |[Day 21](#day-21) **05/30/23**|Python, JavaScript, HTML, CSS, Flask|[Day 22](#day-22) **05/31/23**|Python, HTML, CSS, JavaScript|
-|[Day 23](#day-23) **06/01/23**|Python|
+|[Day 23](#day-23) **06/01/23**|Python, JavaScript, HTML, CSS,|
 ----------
 <a name="day-1"></a>
 ### Day 1: May 10, 2023
@@ -345,3 +345,13 @@ Links:
  ----------
   <a name="day-23"></a>
 ### Day 23: June 01, 2023
+
+- Mais um dia estudando meu JS, e hoje confesso que quebrei a cabeça viu, quando tava tentando colocar um valor dentro de um array que tava dentro de um objeto dentro de outro array. Mas, no final deu certo.
+- E na faculdade o professor de Estrutura falou de dicionário.
+
+Links:
+[]()
+
+[Table of Contents](#toc)
+
+ ----------
