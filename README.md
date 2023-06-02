@@ -1,5 +1,5 @@
 # Eu estou participando do desafio #100DaysOfCode
-
+![Twitter Follow](https://img.shields.io/twitter/follow/guihermeML%20(@GuilhermeML00)?style=social)
 ## Contents
 
 - [Rules](rules.md)
