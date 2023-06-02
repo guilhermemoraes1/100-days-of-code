@@ -347,6 +347,7 @@ Links:
 ### Day 23: June 01, 2023
 
 - Mais um dia estudando meu JS, e hoje confesso que quebrei a cabeça viu, quando tava tentando colocar um valor dentro de um array que tava dentro de um objeto dentro de outro array. Mas, no final deu certo.
+  - Mexi com DOM na parte de adicionar addEventListener 
 - E na faculdade o professor de Estrutura falou de dicionário.
 
 ![Day 23](https://pbs.twimg.com/media/FxlQzSfWcAADHOX?format=jpg&name=large)
