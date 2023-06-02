@@ -1,8 +1,7 @@
 # Eu estou participando do desafio #100DaysOfCode
 ![Started 10/04/2023](https://img.shields.io/badge/Started-10%2F04%2F2023-blue)
 ![Status Desenvolvimento](https://img.shields.io/badge/Status-Desenvolvimento-brightgreen)
-![Twitter Follow](https://img.shields.io/twitter/follow/guihermeML%20?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/GuilhermeML00?style=social)
+<a href="https://twitter.com/GuilhermeML00">![Twitter Follow](https://img.shields.io/twitter/follow/GuihermeML%20?style=social)</a>
 ## Contents
 
 - [Rules](rules.md)
