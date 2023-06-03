@@ -3,21 +3,21 @@
 ### Table of Contents 
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
-|[Day 01](#day-1) **05/10/23**|Python, HTML, BootStrap|[Day 02](#day-2) **05/11/23**|Python, HTML, CSS|
-|[Day 03](#day-3) **05/12/23**|Python, HTML, CSS|[Day 04](#day-4) **05/13/23**|Python, HTML, CSS, JavaScript|
-|[Day 05](#day-5) **05/14/23**|Python, HTML, CSS, BIG O|[Day 06](#day-6) **05/15/23**|Python, HTML, CSS, Box model, Flexbox|
-|[Day 07](#day-7) **05/16/23**|Python, HTML, CSS, Vetores Ordenados|[Day 08](#day-8) **05/17/23**|Python, HTML, CSS, Ferramentas de acessibilidade|
-|[Day 09](#day-9) **05/18/23**|Python, HTML, CSS|[Day 10](#day-10) **05/18/23**|Python, HTML, CSS, Pseduo-classes|
+|[Day 01 W](#day-1) **05/10/23**|Python, HTML, BootStrap|[Day 02 R](#day-2) **05/11/23**|Python, HTML, CSS|
+|[Day 03 F](#day-3) **05/12/23**|Python, HTML, CSS|[Day 04 S](#day-4) **05/13/23**|Python, HTML, CSS, JavaScript|
+|[Day 05 U](#day-5) **05/14/23**|Python, HTML, CSS, BIG O|[Day 06 M](#day-6) **05/15/23**|Python, HTML, CSS, Box model, Flexbox|
+|[Day 07 T](#day-7) **05/16/23**|Python, HTML, CSS, Vetores Ordenados|[Day 08 W](#day-8) **05/17/23**|Python, HTML, CSS, Ferramentas de acessibilidade|
+|[Day 09 R](#day-9) **05/18/23**|Python, HTML, CSS|[Day 10 S](#day-10) **05/18/23**|Python, HTML, CSS, Pseduo-classes|
 |[Day 11](#day-11) **05/20/23**|Python, HTML, Ícones SVG, CSS position|[Day 12](#day-12) **05/21/23**|Python, HTML, CSS, Pesquisa binária|
 |[Day 13](#day-13) **05/22/23**|Python, HTML, CSS, Pilhas|[Day 14](#day-14) **05/23/23**|Python, HTML, CSS|
 |[Day 15](#day-15) **05/24/23**|Python, HTML, CSS variables, Local Storage|[Day 16](#day-16) **05/25/23**|Python, HTML, CSS, Grid, Pilhas, Listas dinâmicas|
 |[Day 17](#day-17) **05/26/23**|Python, HTML, CSS|[Day 18](#day-18) **05/27/23**|Python, HTML, CSS|
 |[Day 19](#day-19) **05/28/23**|Python, HTML, CSS, JavaScript, Fila|[Day 20](#day-20) **05/29/23**|Python, HTML, CSS, JavaScript, Fila de prioridade|
 |[Day 21](#day-21) **05/30/23**|Python, JavaScript, HTML, CSS, Flask|[Day 22](#day-22) **05/31/23**|Python, HTML, CSS, JavaScript|
-|[Day 23](#day-23) **06/01/23**|Python, JavaScript, HTML, CSS,|
+|[Day 23](#day-23) **06/01/23**|Python, JavaScript, HTML, CSS,|[Day 24](#day-24) **06/02/23**|Python, JavaScript, HTML, CSS|
 ----------
 <a name="day-1"></a>
-### Day 1: May 10, 2023
+### Day 1: May 10, 2023 (Wed)
 - Comecei meu primeiro projeto na freeCodeCamp pra fazer um site sobre gatos(🐱) só usando html.
  Aprendi tags novas como:
    1. fieldset 
@@ -39,7 +39,7 @@
  
 ----------
  <a name="day-2"></a>
-### Day 2: May 11, 2023
+### Day 2: May 11, 2023 (Thur)
 
 - Comecei outro projeto na freeCodeCamp de um site sobre menu de restaurante(:coffee:), mas dessa vez além de HTML também usei CSS. 
 - Na faculdade, eu enviei o algoritmo que eu tinha começado ontem da aula de estrutura de dados, que era sobre implementar um TAD de um cliente e vendedor.
@@ -53,7 +53,7 @@ Links:
  
 ----------
  <a name="day-3"></a>
-### Day 3: May 12, 2023
+### Day 3: May 12, 2023 (Fri)
 
 - O projeto que fiz hoje da freeCodeCamp foi pra entender melhor sobre o uso das cores, utilizando hexadecimal, rgb, hsl, entre outros. 🔴🟢🔵
 - No curso da udemy, eu aprendi sobre expressões regulares, um conceito que não tinha visto antes e também orientação a objetos. Eu tenho gostado dessa metodologia, onde eu assisto os vídeos e depois tem um exercício pra fazer.
@@ -68,7 +68,7 @@ Links:
  
 ----------
  <a name="day-4"></a>
-### Day 4: May 13, 2023
+### Day 4: May 13, 2023 (Sat)
 
 - Fiz um formulário na [freeCodeCamp](https://www.freecodecamp.org/learn).
 - Depois tive que fazer uma task de JavaScript da faculdade, a parte visual foi ok, mas apanhei bastante do JS, mas pelo menos no fim deu certo.
@@ -85,7 +85,7 @@ Links:
  
 ----------
  <a name="day-5"></a>
-### Day 5: May 14, 2023
+### Day 5: May 14, 2023 (Sun)
 
 - No vídeo da udemy, foi abordado o conceito de notação BIG O, já tinha ouvido falar, mas agora entendi melhor o que é.
 - E o site de hoje foi outro form, mas nesse eu usei mais CSS.
@@ -99,7 +99,7 @@ Links:
  
 ----------
  <a name="day-6"></a>
-### Day 6: May 15, 2023
+### Day 6: May 15, 2023 (Mon)
 
 - O conceito abordado no curso de ED foi vetor não ordenado.
 - E fiz 2 projetinhos pequenos na @freeCodeCamp com foco em box model e flexbox.
@@ -116,7 +116,7 @@ Links:
  
 ----------
  <a name="day-7"></a>
-### Day 7: May 16, 2023
+### Day 7: May 16, 2023 (Tues)
 
 - Comecei a ver a teoria de vetores ordenados usando implementações de inserção, pesquisa e exclusão, no curso de Estrutura de dados.
 - Fiz um site de rótulo nutricional usando HTML e CSS, usei bastante divisões com a propriedade border.
@@ -130,7 +130,7 @@ Links:
  
 ----------
  <a name="day-8"></a>
-### Day 8: May 17, 2023
+### Day 8: May 17, 2023 (Wed)
 
 - O projeto de hoje foi um questonário com foco em acessibilidade, é muito importante o desenvolvedor garantir com que todos os users tenham a mesma experiência independente de alguma limitação que a pessoa tenha.
 - Comecei a ver como funciona uma pesquina binária em um vetor ordenado na udemy.
@@ -144,7 +144,7 @@ Links:
  
 ----------
  <a name="day-9"></a>
-### Day 9: May 18, 2023
+### Day 9: May 18, 2023 (Thur)
 
 - Comecei a fazer uma página de tributo na @freeCodeCamp, mas ñ consegui terminar. E hoje foi só isso, tive outras coisas importantes pra fazer, como ir no banco.
 - Mas amanhã vou tentar me organizar melhor pra estudar mais.
@@ -153,7 +153,7 @@ Links:
  
 ----------
  <a name="day-10"></a>
-### Day 10: May 19, 2023
+### Day 10: May 19, 2023 (Fri)
 
 - Terminei a página de tributo da @freeCodeCamp, que comecei ontem, e fiz outra de folha de saldo, esse último foi bastante focado em usar diferentes tipos de pseduo-classes, por exemplo:
   - span[class~="sr-only"]
@@ -353,7 +353,7 @@ Links:
 ![Day 23](https://pbs.twimg.com/media/FxlQzSfWcAADHOX?format=jpg&name=large)
 
 Links:
-- [Algoritmo que me fez quase desistir](https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/basic-javascript/record-collection)
+- [Algoritmo + dificil do dia](https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/basic-javascript/record-collection)
 
 [Table of Contents](#toc)
 
@@ -361,7 +361,14 @@ Links:
   <a name="day-24"></a>
 ### Day 24: June 02, 2023
 
+- O conceito que revisei no JS, foi o de recursividade, laços while e for.
+  - tive que pensar bastante pra resolver um dos algoritmos.
+- E fiz uns testes com eventos no DOM com addEventListener(), na playlist do cursoemvideo.
 
+![Day 24](https://pbs.twimg.com/media/FxqPB1SXoAIDPdP?format=jpg&name=large)
+
+Links:
+- [Algoritmo + dificil do dia](https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/basic-javascript/profile-lookup)
 
 [Table of Contents](#toc)
 
