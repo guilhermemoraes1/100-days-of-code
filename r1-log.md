@@ -15,6 +15,7 @@
 |[Day 19](#day-19) **05/28/23**|Python, HTML, CSS, JavaScript, Fila|[Day 20](#day-20) **05/29/23**|Python, HTML, CSS, JavaScript, Fila de prioridade|
 |[Day 21](#day-21) **05/30/23**|Python, JavaScript, HTML, CSS, Flask|[Day 22](#day-22) **05/31/23**|Python, HTML, CSS, JavaScript|
 |[Day 23](#day-23) **06/01/23**|Python, JavaScript, HTML, CSS,|[Day 24](#day-24) **06/02/23**|Python, JavaScript, HTML, CSS|
+|[Day 25](#day-25) **06/03/23**|Python, JavaScript, Operações bit a bit|[Day 26](#day-26) **06/04/23**|Python, JavaScript|
 ----------
 <a name="day-1"></a>
 ### Day 1: May 10, 2023 (Wed)
@@ -372,4 +373,3 @@ Links:
 
 [Table of Contents](#toc)
 
- ----------
