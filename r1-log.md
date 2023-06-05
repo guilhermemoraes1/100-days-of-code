@@ -373,3 +373,24 @@ Links:
 
 [Table of Contents](#toc)
 
+ ----------
+  <a name="day-25"></a>
+### Day 25: June 03, 2023
+
+- Terminei a primeira seção (JavaScript básico) do curso de JS da @freeCodeCamp
+- E criei uma conta no leet code pra praticar o que eu já aprendi até aqui.
+- Também descobri um conceito novo, operações bit a bit, no ChatGPT. 
+  - é um conceito um pouco complexo pra aprender em um dia só, então deixei pra lá.
+
+[Table of Contents](#toc)
+
+ ----------
+   <a name="day-26"></a>
+### Day 26: June 04, 2023
+  
+- Comecei a 2 seção do curso de JS da @freecodecamp, com foco em ECMAScript.
+- Também fiz uns códigos(python) em sites com exercícios de programação, como Beecrowd e Leet code.
+  
+[Table of Contents](#toc)
+
+ ----------
