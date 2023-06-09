@@ -377,7 +377,7 @@ Links:
 [Table of Contents](#toc)
 
  ----------
-  <a name="day-25"></a>
+<a name="day-25"></a>
 ### Day 25: June 03, 2023 (Sat)
 
 - Terminei a primeira seção (JavaScript básico) do curso de JS da @freeCodeCamp
@@ -388,7 +388,7 @@ Links:
 [Table of Contents](#toc)
 
  ----------
-   <a name="day-26"></a>
+<a name="day-26"></a>
 ### Day 26: June 04, 2023 (Sun)
   
 - Comecei a 2 seção do curso de JS da @freecodecamp, com foco em ECMAScript.
@@ -397,7 +397,7 @@ Links:
 [Table of Contents](#toc)
 
  ----------
-   <a name="day-27"></a>
+<a name="day-27"></a>
 ### Day 27: June 05, 2023 (Mon)
 
 - Criei um site simples que muda a aparência de acordo com o horário.
@@ -407,7 +407,7 @@ Links:
 [Table of Contents](#toc)
 
  ----------
-    <a name="day-28"></a>
+<a name="day-28"></a>
 ### Day 28: June 06, 2023 (Tues)
 
 - Criei um site simples que mostra uma imagem diferente dependendo da idade da pessoa.
@@ -417,7 +417,7 @@ Links:
 [Table of Contents](#toc)
 
  ----------
-    <a name="day-29"></a>
+<a name="day-29"></a>
 ### Day 29: June 07, 2023 (Wed)
 
 Aprendi um conceito novo em JS (atribuição de desestruturação).
@@ -427,7 +427,7 @@ Que dispõe conteúdos do curso de computação grátis e em pt-br
 [Table of Contents](#toc)
 
  ----------
-    <a name="day-30"></a>
+<a name="day-30"></a>
 ### Day 30: June 08, 2023 (Thur)
 
 - No curso Algoritmos e estruturas de dados em JavaScript, na parte 2 (ES6) na freeCodeCamp.
@@ -437,7 +437,7 @@ Que dispõe conteúdos do curso de computação grátis e em pt-br
 [Table of Contents](#toc)
 
  ----------
-    <a name="day-31"></a>
+<a name="day-31"></a>
 ### Day 31: June 09, 2023 (Fri)
 
 - 
@@ -445,7 +445,7 @@ Que dispõe conteúdos do curso de computação grátis e em pt-br
 [Table of Contents](#toc)
 
  ----------
-     <a name="day-32"></a>
+<a name="day-32"></a>
 ### Day 32: June 10, 2023 (Sat)
 
 - 
