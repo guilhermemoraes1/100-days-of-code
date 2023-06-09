@@ -178,7 +178,7 @@ Links:
  
  ----------
   <a name="day-11"></a>
-### Day 11: May 20, 2023
+### Day 11: May 20, 2023 (Sat)
 
 - Fiz um projeto bem diferente hoje, que foi criar um site baseado em um pintura de Picasso(🎨), focado em posicionamento e ícones SVG. Então, tive que usar bastante CSS, foi sem dúvidas o dia que eu mais escrevi CSS.
   - Eu achei divertido, porque em mais de 250 linhas de código CSS, eu só usei 15 propriedades, por isso consegui entender bem o que eu  tava fazendo, mas foi bem cansativo.
@@ -195,7 +195,7 @@ Links:
  
  ----------
   <a name="day-12"></a>
-### Day 12: May 21, 2023
+### Day 12: May 21, 2023 (Sun)
 
 - Fiz um projetinho criando uma imagem de piano(🎹), só com HTML e CSS.
 - E terminei de ver sobre binary search, na parte de teoria, implementação e debug, e ainda consegui entender as diferenças de um vetor ordenado para um não ordenado.
@@ -209,7 +209,7 @@ Links:
  
  ----------
   <a name="day-13"></a>
-### Day 13: May 22, 2023
+### Day 13: May 22, 2023 (Mon)
 
 - Comecei um projeto de um site baseado em uma documentação técnica, a parte de HTML tá pronta, só falta acrescentar mais um pouco de CSS.
 - E também comecei a ver sobre pilhas na udemy.
@@ -218,7 +218,7 @@ Links:
  
  ----------
   <a name="day-14"></a>
-### Day 14: May 23, 2023
+### Day 14: May 23, 2023 (Tues)
 
 -Terminei o site que comecei ontem, e já estou perto de terminar o curso de Design responsivo para a web na freeCodeCamp, restam apenas 6 projetos.
 
@@ -231,7 +231,7 @@ Links:
  
  ----------
   <a name="day-15"></a>
-### Day 15: May 24, 2023
+### Day 15: May 24, 2023 (Wed)
 
 - Aprendi a usar variáveis no css com o seletor :root, no site que fiz com temática de horizonte em uma cidade.
   - E uma coisa interessante dele é que dependendo do tamanho da tela, as cores do site mudam.
@@ -247,7 +247,7 @@ Links:
  
  ----------
  <a name="day-16"></a>
-### Day 16: May 25, 2023
+### Day 16: May 25, 2023 (Thur)
 
 - Criei um site de artigo de revista usando Grid na @freeCodeCamp. 
 - Terminei de ver o conceito de pilhas na udemy.
@@ -262,7 +262,7 @@ Links:
  
  ----------
  <a name="day-17"></a>
-### Day 17: May 26, 2023
+### Day 17: May 26, 2023 (Fri)
 
 - O projeto de hoje foi um product landing page,  que gostei bastante do resultado. 
   - E desde que comecei a fazer esses sites a partir do dia 1, eu sinto que tenho aprendido cada vez mais CSS.
@@ -277,7 +277,7 @@ Links:
  
  ----------
   <a name="day-18"></a>
-### Day 18: May 27, 2023
+### Day 18: May 27, 2023 (Sat)
 
 - Fiz um projeto pequeno de uma animação css de uma montanha russa, e também fiz um pouco do começo do próximo site.
 - Tirei uma parte do dia pra organizar o repositório do Desafio #100DaysOfCode, colocando imagens e links dos projetos.
@@ -291,7 +291,7 @@ Links:
  
  ----------
   <a name="day-19"></a>
-### Day 19: May 28, 2023
+### Day 19: May 28, 2023 (Sun)
 
 - Fiz um projeto de um pinguim acenando, falta só mais um projeto pra terminar o curso de Design Responsivo. 
   - E por conta disso comecei outro curso na @freecodecamp de Algoritmos e estruturas de dados em JavaScript.
@@ -308,7 +308,7 @@ Links:
  
  ----------
   <a name="day-20"></a>
-### Day 20: May 29, 2023
+### Day 20: May 29, 2023 (Mon)
 
 - Terminei o meu primeiro curso na freeCodeCamp de Design Responsivo para a Web, recebi um certificado.
   - Continuei estudando JS com o curso de ED e também com os vídeos do Cursoemvideo.
@@ -324,7 +324,7 @@ Links:
  
  ----------
   <a name="day-21"></a>
-### Day 21: May 30, 2023
+### Day 21: May 30, 2023 (Tues)
 
 - Continuei meus estudos de JavaScript, revisando a parte básica, como escopo e array, na @freeCodeCamp.
 - E na faculdade, criei um projeto básico de python com a biblioteca flask, é a primeira vez que ouvi falar dela, e no projeto usei junto com um arquivo HTML.
@@ -336,7 +336,7 @@ Links:
  
  ----------
    <a name="day-22"></a>
-### Day 22: May 31, 2023
+### Day 22: May 31, 2023 (Wed)
 
 - Continuei praticando JavaScript, revendo conceitos como switch e dando aquela brincada com DOM.
 - E na faculdade foi basicamente só o professor explicando tupla.
@@ -347,7 +347,7 @@ Links:
 
  ----------
   <a name="day-23"></a>
-### Day 23: June 01, 2023
+### Day 23: June 01, 2023 (Thur)
 
 - Mais um dia estudando meu JS, e hoje confesso que quebrei a cabeça viu, quando tava tentando colocar um valor dentro de um array que tava dentro de um objeto dentro de outro array. Mas, no final deu certo.
   - Mexi com DOM na parte de adicionar addEventListener 
@@ -362,7 +362,7 @@ Links:
 
  ----------
   <a name="day-24"></a>
-### Day 24: June 02, 2023
+### Day 24: June 02, 2023 (Fri)
 
 - O conceito que revisei no JS, foi o de recursividade, laços while e for.
   - tive que pensar bastante pra resolver um dos algoritmos.
@@ -377,7 +377,7 @@ Links:
 
  ----------
   <a name="day-25"></a>
-### Day 25: June 03, 2023
+### Day 25: June 03, 2023 (Sat)
 
 - Terminei a primeira seção (JavaScript básico) do curso de JS da @freeCodeCamp
 - E criei uma conta no leet code pra praticar o que eu já aprendi até aqui.
@@ -388,7 +388,7 @@ Links:
 
  ----------
    <a name="day-26"></a>
-### Day 26: June 04, 2023
+### Day 26: June 04, 2023 (Sun)
   
 - Comecei a 2 seção do curso de JS da @freecodecamp, com foco em ECMAScript.
 - Também fiz uns códigos(python) em sites com exercícios de programação, como Beecrowd e Leet code.
@@ -397,7 +397,7 @@ Links:
 
  ----------
    <a name="day-27"></a>
-### Day 27: June 05, 2023
+### Day 27: June 05, 2023 (Mon)
 
 - Criei um site simples que muda a aparência de acordo com o horário.
 
@@ -407,7 +407,7 @@ Links:
 
  ----------
     <a name="day-28"></a>
-### Day 28: June 06, 2023
+### Day 28: June 06, 2023 (Tues)
 
 - Criei um site simples que mostra uma imagem diferente dependendo da idade da pessoa.
 - E fiz o trabalho da faculdade da disciplina de protocolos de interconexão de redes. 
@@ -417,7 +417,7 @@ Links:
 
  ----------
     <a name="day-29"></a>
-### Day 29: June 07, 2023
+### Day 29: June 07, 2023 (Wed)
 
 Aprendi um conceito novo em JS (atribuição de desestruturação).
 E descobri um repositório top que tá com mais de 10.000 estrelas!
@@ -427,7 +427,7 @@ Que dispõe conteúdos do curso de computação grátis e em pt-br
 
  ----------
     <a name="day-30"></a>
-### Day 30: June 08, 2023
+### Day 30: June 08, 2023 (Thur)
 
 - No curso Algoritmos e estruturas de dados em JavaScript, na parte 2 (ES6) na freeCodeCamp.
   - Continuei estudando js, vi conceitos de importação/exportação e ainda escrevi códigos com class e this.
