@@ -396,3 +396,33 @@ Links:
 [Table of Contents](#toc)
 
  ----------
+   <a name="day-27"></a>
+### Day 27: June 05, 2023
+
+- Criei um site simples que muda a aparência de acordo com o horário.
+
+
+
+[Table of Contents](#toc)
+
+ ----------
+    <a name="day-28"></a>
+### Day 28: June 06, 2023
+
+- Criei um site simples que mostra uma imagem diferente dependendo da idade da pessoa.
+- E fiz o trabalho da faculdade da disciplina de protocolos de interconexão de redes. 
+  - Falta apenas acrescentar mais alguns inputs pra terminar.
+
+[Table of Contents](#toc)
+
+ ----------
+    <a name="day-29"></a>
+### Day 29: June 07, 2023
+
+Aprendi um conceito novo em JS (atribuição de desestruturação).
+E descobri um repositório top que tá com mais de 10.000 estrelas!
+Que dispõe conteúdos do curso de computação grátis e em pt-br
+
+[Table of Contents](#toc)
+
+ ----------
