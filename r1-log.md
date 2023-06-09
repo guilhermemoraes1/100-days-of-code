@@ -17,7 +17,7 @@
 |[Day 23 R](#day-23) **06/01/23**|Python, JavaScript, HTML, CSS|[Day 24 F](#day-24) **06/02/23**|Python, JavaScript, HTML, CSS|
 |[Day 25 S](#day-25) **06/03/23**|Python, JavaScript, Operações bit a bit|[Day 26 U](#day-26) **06/04/23**|Python, JavaScript|
 |[Day 27 M](#day-27) **06/05/23**|Python, JavaScript, HTML, CSS|[Day 28 T](#day-28) **06/06/23**|Python, JavaScript, HTML, CSS|
-|[Day 29 W](#day-29) **06/07/23**|Python, JavaScript, atribuição de desestruturação|[Day 30 R](#day-30) **06/08/23**|Python, JavaScript, Importação/Exportação|
+|[Day 29 W](#day-29) **06/07/23**|Python, JavaScript, atribuição de desestruturação|[Day 30 R](#day-30) **06/08/23**|Python, JavaScript, Módulos|
 ----------
 <a name="day-1"></a>
 ### Day 1: May 10, 2023 (Wed)
