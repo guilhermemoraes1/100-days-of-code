@@ -7,15 +7,17 @@
 |[Day 03 F](#day-3) **05/12/23**|Python, HTML, CSS|[Day 04 S](#day-4) **05/13/23**|Python, HTML, CSS, JavaScript|
 |[Day 05 U](#day-5) **05/14/23**|Python, HTML, CSS, BIG O|[Day 06 M](#day-6) **05/15/23**|Python, HTML, CSS, Box model, Flexbox|
 |[Day 07 T](#day-7) **05/16/23**|Python, HTML, CSS, Vetores Ordenados|[Day 08 W](#day-8) **05/17/23**|Python, HTML, CSS, Ferramentas de acessibilidade|
-|[Day 09 R](#day-9) **05/18/23**|Python, HTML, CSS|[Day 10 S](#day-10) **05/18/23**|Python, HTML, CSS, Pseduo-classes|
-|[Day 11](#day-11) **05/20/23**|Python, HTML, Ícones SVG, CSS position|[Day 12](#day-12) **05/21/23**|Python, HTML, CSS, Pesquisa binária|
-|[Day 13](#day-13) **05/22/23**|Python, HTML, CSS, Pilhas|[Day 14](#day-14) **05/23/23**|Python, HTML, CSS|
-|[Day 15](#day-15) **05/24/23**|Python, HTML, CSS variables, Local Storage|[Day 16](#day-16) **05/25/23**|Python, HTML, CSS, Grid, Pilhas, Listas dinâmicas|
-|[Day 17](#day-17) **05/26/23**|Python, HTML, CSS|[Day 18](#day-18) **05/27/23**|Python, HTML, CSS|
-|[Day 19](#day-19) **05/28/23**|Python, HTML, CSS, JavaScript, Fila|[Day 20](#day-20) **05/29/23**|Python, HTML, CSS, JavaScript, Fila de prioridade|
-|[Day 21](#day-21) **05/30/23**|Python, JavaScript, HTML, CSS, Flask|[Day 22](#day-22) **05/31/23**|Python, HTML, CSS, JavaScript|
-|[Day 23](#day-23) **06/01/23**|Python, JavaScript, HTML, CSS,|[Day 24](#day-24) **06/02/23**|Python, JavaScript, HTML, CSS|
-|[Day 25](#day-25) **06/03/23**|Python, JavaScript, Operações bit a bit|[Day 26](#day-26) **06/04/23**|Python, JavaScript|
+|[Day 09 R](#day-9) **05/18/23**|Python, HTML, CSS|[Day 10 F](#day-10) **05/19/23**|Python, HTML, CSS, Pseduo-classes|
+|[Day 11 S](#day-11) **05/20/23**|Python, HTML, Ícones SVG, CSS position|[Day 12 U](#day-12) **05/21/23**|Python, HTML, CSS, Pesquisa binária|
+|[Day 13 M](#day-13) **05/22/23**|Python, HTML, CSS, Pilhas|[Day 14 T](#day-14) **05/23/23**|Python, HTML, CSS|
+|[Day 15 W](#day-15) **05/24/23**|Python, HTML, CSS variables, Local Storage|[Day 16 R](#day-16) **05/25/23**|Python, HTML, CSS, Grid, Pilhas, Listas dinâmicas|
+|[Day 17 F](#day-17) **05/26/23**|Python, HTML, CSS|[Day 18 S](#day-18) **05/27/23**|Python, HTML, CSS|
+|[Day 19 U](#day-19) **05/28/23**|Python, HTML, CSS, JavaScript, Fila|[Day 20 M](#day-20) **05/29/23**|Python, HTML, CSS, JavaScript, Fila de prioridade|
+|[Day 21 T](#day-21) **05/30/23**|Python, JavaScript, HTML, CSS, Flask|[Day 22 W](#day-22) **05/31/23**|Python, HTML, CSS, JavaScript|
+|[Day 23 R](#day-23) **06/01/23**|Python, JavaScript, HTML, CSS|[Day 24 F](#day-24) **06/02/23**|Python, JavaScript, HTML, CSS|
+|[Day 25 S](#day-25) **06/03/23**|Python, JavaScript, Operações bit a bit|[Day 26 U](#day-26) **06/04/23**|Python, JavaScript|
+|[Day 27 M](#day-27) **06/05/23**|Python, JavaScript, HTML, CSS|[Day 28 T](#day-28) **06/06/23**|Python, JavaScript, HTML, CSS|
+|[Day 29 W](#day-29) **06/07/23**|Python, JavaScript, atribuição de desestruturação|[Day 30 R](#day-30) **06/08/23**|Python, JavaScript, Importação/Exportação|
 ----------
 <a name="day-1"></a>
 ### Day 1: May 10, 2023 (Wed)
