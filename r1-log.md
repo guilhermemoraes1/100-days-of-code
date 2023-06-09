@@ -426,3 +426,11 @@ Que dispõe conteúdos do curso de computação grátis e em pt-br
 [Table of Contents](#toc)
 
  ----------
+    <a name="day-30"></a>
+### Day 30: June 08, 2023
+
+
+
+[Table of Contents](#toc)
+
+ ----------
