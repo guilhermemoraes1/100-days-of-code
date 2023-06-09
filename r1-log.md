@@ -429,7 +429,9 @@ Que dispõe conteúdos do curso de computação grátis e em pt-br
     <a name="day-30"></a>
 ### Day 30: June 08, 2023
 
-
+- No curso Algoritmos e estruturas de dados em JavaScript, na parte 2 (ES6) na freeCodeCamp.
+  - Continuei estudando js, vi conceitos de importação/exportação e ainda escrevi códigos com class e this.
+- Adicionei mais alguns campos de input na tarefa de protocolo da faculdade, e só falta adicionar css pra enviar.
 
 [Table of Contents](#toc)
 
