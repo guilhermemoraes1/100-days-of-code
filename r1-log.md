@@ -18,6 +18,7 @@
 |[Day 25 S](#day-25) **06/03/23**|Python, JavaScript, Operações bit a bit|[Day 26 U](#day-26) **06/04/23**|Python, JavaScript|
 |[Day 27 M](#day-27) **06/05/23**|Python, JavaScript, HTML, CSS|[Day 28 T](#day-28) **06/06/23**|Python, JavaScript, HTML, CSS|
 |[Day 29 W](#day-29) **06/07/23**|Python, JavaScript, atribuição de desestruturação|[Day 30 R](#day-30) **06/08/23**|Python, JavaScript, Módulos|
+[Day 31 F](#day-31) **06/09/23**|Python, JavaScript, HTML|[Day 32 R](#day-32) **06/10/23**|Python, JavaScript|
 ----------
 <a name="day-1"></a>
 ### Day 1: May 10, 2023 (Wed)
@@ -432,6 +433,22 @@ Que dispõe conteúdos do curso de computação grátis e em pt-br
 - No curso Algoritmos e estruturas de dados em JavaScript, na parte 2 (ES6) na freeCodeCamp.
   - Continuei estudando js, vi conceitos de importação/exportação e ainda escrevi códigos com class e this.
 - Adicionei mais alguns campos de input na tarefa de protocolo da faculdade, e só falta adicionar css pra enviar.
+
+[Table of Contents](#toc)
+
+ ----------
+    <a name="day-31"></a>
+### Day 31: June 09, 2023 (Fri)
+
+- 
+
+[Table of Contents](#toc)
+
+ ----------
+     <a name="day-32"></a>
+### Day 32: June 10, 2023 (Sat)
+
+- 
 
 [Table of Contents](#toc)
 
