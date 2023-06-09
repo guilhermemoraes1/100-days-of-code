@@ -82,7 +82,7 @@ Links:
 ![Day 4](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day4-semana7.png?raw=true)
 
 Links:
-- [Registration Form](https://t.co/UqlyfDzZkV)
+- [Registration Form](https://registration-form.guilhermem0.repl.co/)
 - [Semana7Atividade2](https://semana7atividade2.guilhermem0.repl.co/)
 
  [Table of Contents](#toc)
