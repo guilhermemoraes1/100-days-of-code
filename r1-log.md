@@ -77,7 +77,7 @@ Links:
 - Fiz um formulário na [freeCodeCamp](https://www.freecodecamp.org/learn).
 - Depois tive que fazer uma task de JavaScript da faculdade, a parte visual foi ok, mas apanhei bastante do JS, mas pelo menos no fim deu certo.
 
-![Day 4](https://api.apify.com/v2/key-value-stores/8BpIQUS2g79AmyFmt/records/registration-form.guilhermem0.repl.co-scroll_original)
+![Day 4](images/registration-form.guilhermem0.repl.co-scroll_original)
 -
 ![Day 4](https://github.com/guilhermemoraes1/100-days-of-code/blob/master/images/day4-semana7.png?raw=true)
 
