@@ -17,8 +17,8 @@
 |[Day 23 R](#day-23) **06/01/23**|Python, JavaScript, HTML, CSS|[Day 24 F](#day-24) **06/02/23**|Python, JavaScript, HTML, CSS|
 |[Day 25 S](#day-25) **06/03/23**|Python, JavaScript, Operações bit a bit|[Day 26 U](#day-26) **06/04/23**|Python, JavaScript|
 |[Day 27 M](#day-27) **06/05/23**|Python, JavaScript, HTML, CSS|[Day 28 T](#day-28) **06/06/23**|Python, JavaScript, HTML, CSS|
-|[Day 29 W](#day-29) **06/07/23**|Python, JavaScript, atribuição de desestruturação|[Day 30 R](#day-30) **06/08/23**|Python, JavaScript, Módulos|
-[Day 31 F](#day-31) **06/09/23**|Python, JavaScript, HTML|[Day 32 R](#day-32) **06/10/23**|Python, JavaScript|
+|[Day 29 W](#day-29) **06/07/23**|Python, JavaScript, atribuição de desestruturação|[Day 30 R](#day-30) **06/08/23**|Python, JavaScript, Módulos, Flask|
+[Day 31 F](#day-31) **06/09/23**|Python, JavaScript, HTML, Flask|[Day 32 R](#day-32) **06/10/23**|Python, JavaScript|
 ----------
 <a name="day-1"></a>
 ### Day 1: May 10, 2023 (Wed)
@@ -440,7 +440,8 @@ Que dispõe conteúdos do curso de computação grátis e em pt-br
 <a name="day-31"></a>
 ### Day 31: June 09, 2023 (Fri)
 
-- 
+- Vi um conceito novo em js, que é promise que usa funções then e catch.
+- Também enviei o projeto de protocolo e comecei outro de linguagem de script, que vai ser o útlimo dessa disciplina.
 
 [Table of Contents](#toc)
 
@@ -448,8 +449,16 @@ Que dispõe conteúdos do curso de computação grátis e em pt-br
 <a name="day-32"></a>
 ### Day 32: June 10, 2023 (Sat)
 
-- 
+- Comecei a pesquisar mais sobre open source e como contribuir, e vi como se faz um pull request, to cada vez mais interessado nesses projetos de código aberto.
+- E continuei com o trabalho da faculdade que comecei ontem.
 
 [Table of Contents](#toc)
 
  ----------
+<a name="day-33"></a>
+### Day 33: June 11, 2023 (Sat)
+
+- Ainda não terminei mas tô bem perto de finalizar o projeto de script, amanhã vou organizar o código, e acrescentar mais um pouco de CSS.
+- 
+
+[Table of Contents](#toc)
