@@ -18,7 +18,8 @@
 |[Day 25 S](#day-25) **06/03/23**|Python, JavaScript, Operações bit a bit|[Day 26 U](#day-26) **06/04/23**|Python, JavaScript|
 |[Day 27 M](#day-27) **06/05/23**|Python, JavaScript, HTML, CSS|[Day 28 T](#day-28) **06/06/23**|Python, JavaScript, HTML, CSS|
 |[Day 29 W](#day-29) **06/07/23**|Python, JavaScript, atribuição de desestruturação|[Day 30 R](#day-30) **06/08/23**|Python, JavaScript, Módulos, Flask|
-[Day 31 F](#day-31) **06/09/23**|Python, JavaScript, HTML, Flask|[Day 32 R](#day-32) **06/10/23**|Python, JavaScript|
+[Day 31 F](#day-31) **06/09/23**|Python, JavaScript, HTML, Flask|[Day 32 S](#day-32) **06/10/23**|Python, HTML, CSS, BootStrap|
+|[Day 33 U](#day-33) **06/11/23**|Python, JavaScript, HTML, CSS|[Day 34 M](#day-34) **06/12/23**|Python, JavaScript, HTML, CSS, BootStrap|
 ----------
 <a name="day-1"></a>
 ### Day 1: May 10, 2023 (Wed)
@@ -403,7 +404,6 @@ Links:
 - Criei um site simples que muda a aparência de acordo com o horário.
 
 
-
 [Table of Contents](#toc)
 
  ----------
@@ -420,9 +420,12 @@ Links:
 <a name="day-29"></a>
 ### Day 29: June 07, 2023 (Wed)
 
-Aprendi um conceito novo em JS (atribuição de desestruturação).
-E descobri um repositório top que tá com mais de 10.000 estrelas!
-Que dispõe conteúdos do curso de computação grátis e em pt-br
+- Aprendi um conceito novo em JS (atribuição de desestruturação).
+- E descobri um repositório top que tá com mais de 10.000 estrelas!
+  - Que dispõe conteúdos do curso de computação grátis e em pt-br
+
+Links:
+- [Ciência da computação](https://github.com/Universidade-Livre/ciencia-da-computacao)
 
 [Table of Contents](#toc)
 
@@ -431,7 +434,7 @@ Que dispõe conteúdos do curso de computação grátis e em pt-br
 ### Day 30: June 08, 2023 (Thur)
 
 - No curso Algoritmos e estruturas de dados em JavaScript, na parte 2 (ES6) na freeCodeCamp.
-  - Continuei estudando js, vi conceitos de importação/exportação e ainda escrevi códigos com class e this.
+  - Continuei estudando js, vi conceitos de módulos e ainda escrevi códigos com class e this.
 - Adicionei mais alguns campos de input na tarefa de protocolo da faculdade, e só falta adicionar css pra enviar.
 
 [Table of Contents](#toc)
@@ -456,9 +459,16 @@ Que dispõe conteúdos do curso de computação grátis e em pt-br
 
  ----------
 <a name="day-33"></a>
-### Day 33: June 11, 2023 (Sat)
+### Day 33: June 11, 2023 (Sun)
 
-- Ainda não terminei mas tô bem perto de finalizar o projeto de script, amanhã vou organizar o código, e acrescentar mais um pouco de CSS.
-- 
+- Ainda não terminei mas tô bem perto de finalizar o projeto de script, amanhã vou organizar o código, e acrescentar mais um pouco de CSS. 
 
 [Table of Contents](#toc)
+ ----------
+<a name="day-33"></a>
+### Day 33: June 11, 2023 (Sun)
+
+- Passei bastante tempo organizando a tarefa da disciplina de Linguagem de Script, falta só alguns detalhes pra enviar, como mudar o botão e a fonte.
+
+[Table of Contents](#toc)
+ ----------
