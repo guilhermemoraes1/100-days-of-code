@@ -20,6 +20,7 @@
 |[Day 29 W](#day-29) **06/07/23**|Python, JavaScript, atribuição de desestruturação|[Day 30 R](#day-30) **06/08/23**|Python, JavaScript, Módulos, Flask|
 [Day 31 F](#day-31) **06/09/23**|Python, JavaScript, HTML, Flask|[Day 32 S](#day-32) **06/10/23**|Python, HTML, CSS, BootStrap|
 |[Day 33 U](#day-33) **06/11/23**|Python, JavaScript, HTML, CSS|[Day 34 M](#day-34) **06/12/23**|Python, JavaScript, HTML, CSS, BootStrap|
+|[Day 35 T](#day-35) **06/13/23**|Python, JavaScript, HTML, CSS, BootStrap|[Day 36 W](#day-36) **06/14/23**|Python, JavaScript, HTML, CSS, React|
 ----------
 <a name="day-1"></a>
 ### Day 1: May 10, 2023 (Wed)
@@ -466,9 +467,19 @@ Links:
 [Table of Contents](#toc)
  ----------
 <a name="day-33"></a>
-### Day 33: June 11, 2023 (Sun)
+### Day 34: June 12, 2023 (Sun)
 
 - Passei bastante tempo organizando a tarefa da disciplina de Linguagem de Script, falta só alguns detalhes pra enviar, como mudar o botão e a fonte.
 
 [Table of Contents](#toc)
  ----------
+
+
+Bastante bootstrap hoje, adicionei no último projeto de protocolo que fiz, e dei uma melhorada no visual do site de Frutíferas.
+
+Dia 36 - R1D36
+
+Comecei uma jornada Full Stack de 8 dias pra criar um clone de TikTok na EBAC.
+Já assisti as 2 primeiras aulas.
+Coloquei o projeto no github, comecei a usar React pela primeira vez nesse projeto.
+Na faculdade, o professor de ED falou sobre listas estáticas e dinâmicas, e o prof de Script falou sobre git e githun.
