@@ -4,7 +4,7 @@
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
 |[Day 01 W](#day-1) **05/10/23**|Python, HTML, BootStrap|[Day 02 R](#day-2) **05/11/23**|Python, HTML, CSS|
-|[Day 03 F](#day-3) **05/12/23**|Python, HTML, CSS|[Day 04 S](#day-4) **05/13/23**|Python, HTML, CSS, JavaScript|
+|[Day 03 F](#day-3) **05/12/23**|Python, HTML, CSS, Expressões regulares|[Day 04 S](#day-4) **05/13/23**|Python, HTML, CSS, JavaScript|
 |[Day 05 U](#day-5) **05/14/23**|Python, HTML, CSS, BIG O|[Day 06 M](#day-6) **05/15/23**|Python, HTML, CSS, Box model, Flexbox|
 |[Day 07 T](#day-7) **05/16/23**|Python, HTML, CSS, Vetores Ordenados|[Day 08 W](#day-8) **05/17/23**|Python, HTML, CSS, Ferramentas de acessibilidade|
 |[Day 09 R](#day-9) **05/18/23**|Python, HTML, CSS|[Day 10 F](#day-10) **05/19/23**|Python, HTML, CSS, Pseduo-classes|
@@ -21,6 +21,10 @@
 [Day 31 F](#day-31) **06/09/23**|Python, JavaScript, HTML, Flask|[Day 32 S](#day-32) **06/10/23**|Python, HTML, CSS, BootStrap|
 |[Day 33 U](#day-33) **06/11/23**|Python, JavaScript, HTML, CSS|[Day 34 M](#day-34) **06/12/23**|Python, JavaScript, HTML, CSS, BootStrap|
 |[Day 35 T](#day-35) **06/13/23**|Python, JavaScript, HTML, CSS, BootStrap|[Day 36 W](#day-36) **06/14/23**|Python, JavaScript, HTML, CSS, React|
+|[Day 37 F](#day-37) **06/15/23**|Python, JavaScript, CSS, React|[Day 38 S](#day-38) **06/16/23**|Python, JavaScript, CSS, React|
+|[Day 39 U](#day-39) **06/17/23**|Python, JavaScript, CSS, React, Expressões regulares|[Day 40 M](#day-40) **06/18/23**|Python, JavaScript, CSS, React, Firebase|
+|[Day 41 T](#day-41) **06/19/23**|Python, JavaScript, CSS, React|
+
 ----------
 <a name="day-1"></a>
 ### Day 1: May 10, 2023 (Wed)
@@ -465,21 +469,82 @@ Links:
 - Ainda não terminei mas tô bem perto de finalizar o projeto de script, amanhã vou organizar o código, e acrescentar mais um pouco de CSS. 
 
 [Table of Contents](#toc)
+
  ----------
-<a name="day-33"></a>
-### Day 34: June 12, 2023 (Sun)
+<a name="day-34"></a>
+### Day 34: June 12, 2023 (Mon)
 
 - Passei bastante tempo organizando a tarefa da disciplina de Linguagem de Script, falta só alguns detalhes pra enviar, como mudar o botão e a fonte.
 
 [Table of Contents](#toc)
+
  ----------
+<a name="day-35"></a>
+### Day 35: June 13, 2023 (Tues)
 
+- Bastante bootstrap hoje, adicionei no último projeto de protocolo que fiz, e dei uma melhorada no visual do site de Frutíferas.
 
-Bastante bootstrap hoje, adicionei no último projeto de protocolo que fiz, e dei uma melhorada no visual do site de Frutíferas.
+[Table of Contents](#toc)
 
-Dia 36 - R1D36
+ ----------
+<a name="day-36"></a>
+### Day 36: June 14, 2023 (Mon)
 
-Comecei uma jornada Full Stack de 8 dias pra criar um clone de TikTok na EBAC.
-Já assisti as 2 primeiras aulas.
-Coloquei o projeto no github, comecei a usar React pela primeira vez nesse projeto.
-Na faculdade, o professor de ED falou sobre listas estáticas e dinâmicas, e o prof de Script falou sobre git e githun.
+- Comecei uma jornada FullStack de 8 dias pra criar um clone de TikTok na EBAC. Assisti as 2 primeiras aulas.
+    - Criei um repositório chamado TikTokClone pra hospedar o projeto.
+- Na faculdade, o professor de ED falou sobre listas estáticas e dinâmicas, e o prof de Linguagem de Script falou sobre git e github.
+
+Links:
+- [TikTokClone]()
+
+[Table of Contents](#toc)
+
+ ----------
+<a name="day-37"></a>
+### Day 37: June 15, 2023 (Mon)
+
+- Continuei com meu projeto de clonar o tiktok, adicionei um footer, com o nome da pessoa, descrição, ícones e nome da música.
+    - e eu decidi criar um github-pages pra esse repositório, deu bastante trabalho, porque não sabia o que tava fazendo, mas deu certo.
+- Criei um repositório com meu username pra deixar o perfil mais atraente, coloquei 2 github stats e um gif que peguei de um site japonês.
+
+Links:
+- [guilhermemoraes1]()
+- [site do gif]()
+
+[Table of Contents](#toc)
+
+ ----------
+<a name="day-38"></a>
+### Day 38: June 16, 2023 (Mon)
+
+- Continuei o meu projeto de clonar o TikTok com React, e adicionando algumas coisas a mais, que não estão no tutorial, adicionei variáveis de JavaScript dentro do código.
+
+[Table of Contents](#toc)
+
+ ----------
+<a name="day-39"></a>
+### Day 39: June 17, 2023 (Mon)
+
+- Voltei a ver o conceito de expressoões regulares, mas dessa vez com js.
+E revisei o projeto tiktok, antes de implementar a parte de backend.
+
+[Table of Contents](#toc)
+
+ ----------
+<a name="day-40"></a>
+### Day 40: June 18, 2023 (Mon)
+
+- Passei a manhã toda organizando o readme do perfil do github, e adicionei a animação da cobrinha.
+Continuei o projeto do tiktok e juntei com o firebase (primeira vez que uso) pra armazenar os dados.
+
+[Table of Contents](#toc)
+
+ ----------
+ <a name="day-40"></a>
+### Day 41: June 19, 2023 (Mon)
+
+-
+
+[Table of Contents](#toc)
+
+ ----------
