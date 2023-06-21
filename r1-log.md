@@ -22,8 +22,8 @@
 |[Day 33 U](#day-33) **06/11/23**|Python, JavaScript, HTML, CSS|[Day 34 M](#day-34) **06/12/23**|Python, JavaScript, HTML, CSS, BootStrap|
 |[Day 35 T](#day-35) **06/13/23**|Python, JavaScript, HTML, CSS, BootStrap|[Day 36 W](#day-36) **06/14/23**|Python, JavaScript, HTML, CSS, React|
 |[Day 37 F](#day-37) **06/15/23**|Python, JavaScript, CSS, React|[Day 38 S](#day-38) **06/16/23**|Python, JavaScript, CSS, React|
-|[Day 39 U](#day-39) **06/17/23**|Python, JavaScript, CSS, React, Expressões regulares|[Day 40 M](#day-40) **06/18/23**|Python, JavaScript, CSS, React, Firebase|
-|[Day 41 T](#day-41) **06/19/23**|Python, JavaScript, CSS, React|
+|[Day 39 U](#day-39) **06/17/23**|Python, JavaScript, CSS, React, Expressões regulares|[Day 40 M](#day-40) **06/18/23**|JavaScript, CSS, React, Firebase|
+|[Day 41 T](#day-41) **06/19/23**|JavaScript, Expressões regulares|[Day 42 T]() **06/20/23**|JavaScript, Expressões regulares|
 
 ----------
 <a name="day-1"></a>
