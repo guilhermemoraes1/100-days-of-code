@@ -21,9 +21,11 @@
 [Day 31 F](#day-31) **06/09/23**|Python, JavaScript, HTML, Flask|[Day 32 S](#day-32) **06/10/23**|Python, HTML, CSS, BootStrap|
 |[Day 33 U](#day-33) **06/11/23**|Python, JavaScript, HTML, CSS|[Day 34 M](#day-34) **06/12/23**|Python, JavaScript, HTML, CSS, BootStrap|
 |[Day 35 T](#day-35) **06/13/23**|Python, JavaScript, HTML, CSS, BootStrap|[Day 36 W](#day-36) **06/14/23**|Python, JavaScript, HTML, CSS, React|
-|[Day 37 F](#day-37) **06/15/23**|Python, JavaScript, CSS, React|[Day 38 S](#day-38) **06/16/23**|Python, JavaScript, CSS, React|
-|[Day 39 U](#day-39) **06/17/23**|Python, JavaScript, CSS, React, Expressões regulares|[Day 40 M](#day-40) **06/18/23**|JavaScript, CSS, React, Firebase|
-|[Day 41 T](#day-41) **06/19/23**|JavaScript, Expressões regulares|[Day 42 T]() **06/20/23**|JavaScript, Expressões regulares|
+|[Day 37 R](#day-37) **06/15/23**|Python, JavaScript, CSS, React|[Day 38 F](#day-38) **06/16/23**|Python, JavaScript, CSS, React|
+|[Day 39 S](#day-39) **06/17/23**|Python, JavaScript, CSS, React, Expressões regulares|[Day 40 U](#day-40) **06/18/23**|JavaScript, CSS, React, Firebase|
+|[Day 41 M](#day-41) **06/19/23**|JavaScript, Expressões regulares|[Day 42 T]() **06/20/23**|JavaScript, Expressões regulares|
+|[Day 43 W]() **06/21/23**|JavaScript, Expressões regulares|[Day 44 R]() **06/22/23**|JavaScript, Expressões regulares|
+[Day 45 S]() **06/23/23**|JavaScript, Debugging|
 
 ----------
 <a name="day-1"></a>
@@ -488,7 +490,7 @@ Links:
 
  ----------
 <a name="day-36"></a>
-### Day 36: June 14, 2023 (Mon)
+### Day 36: June 14, 2023 (Wed)
 
 - Comecei uma jornada FullStack de 8 dias pra criar um clone de TikTok na EBAC. Assisti as 2 primeiras aulas.
     - Criei um repositório chamado TikTokClone pra hospedar o projeto.
@@ -501,7 +503,7 @@ Links:
 
  ----------
 <a name="day-37"></a>
-### Day 37: June 15, 2023 (Mon)
+### Day 37: June 15, 2023 (Thur)
 
 - Continuei com meu projeto de clonar o tiktok, adicionei um footer, com o nome da pessoa, descrição, ícones e nome da música.
     - e eu decidi criar um github-pages pra esse repositório, deu bastante trabalho, porque não sabia o que tava fazendo, mas deu certo.
@@ -515,7 +517,7 @@ Links:
 
  ----------
 <a name="day-38"></a>
-### Day 38: June 16, 2023 (Mon)
+### Day 38: June 16, 2023 (Fri)
 
 - Continuei o meu projeto de clonar o TikTok com React, e adicionando algumas coisas a mais, que não estão no tutorial, adicionei variáveis de JavaScript dentro do código.
 
@@ -523,7 +525,7 @@ Links:
 
  ----------
 <a name="day-39"></a>
-### Day 39: June 17, 2023 (Mon)
+### Day 39: June 17, 2023 (Sat)
 
 - Voltei a ver o conceito de expressoões regulares, mas dessa vez com js.
 E revisei o projeto tiktok, antes de implementar a parte de backend.
@@ -532,7 +534,7 @@ E revisei o projeto tiktok, antes de implementar a parte de backend.
 
  ----------
 <a name="day-40"></a>
-### Day 40: June 18, 2023 (Mon)
+### Day 40: June 18, 2023 (Sun)
 
 - Passei a manhã toda organizando o readme do perfil do github, e adicionei a animação da cobrinha.
 Continuei o projeto do tiktok e juntei com o firebase (primeira vez que uso) pra armazenar os dados.
@@ -540,7 +542,7 @@ Continuei o projeto do tiktok e juntei com o firebase (primeira vez que uso) pra
 [Table of Contents](#toc)
 
  ----------
- <a name="day-40"></a>
+ <a name="day-41"></a>
 ### Day 41: June 19, 2023 (Mon)
 
 -
