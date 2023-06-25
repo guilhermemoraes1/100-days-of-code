@@ -3,7 +3,7 @@
 ![Status Desenvolvimento](https://img.shields.io/badge/Status-Desenvolvimento-brightgreen)
 ![https://img.shields.io/github/watchers/:user/:repo](https://img.shields.io/github/watchers/guilhermemoraes1/TikTokClone
 )
-<a href="https://twitter.com/GuilhermeML00">![Twitter Follow](https://img.shields.io/twitter/follow/GuihermeML%20?style=social)</a>
+<a  href="https://twitter.com/guilhermemorae_" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?logo=twitter&logoColor=white" target="_blank"></a>
 ## Contents
 
 - [Rules](rules.md)
