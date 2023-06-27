@@ -26,7 +26,7 @@
 |[Day 41 M](#day-41) **06/19/23**|JavaScript, Expressões regulares|[Day 42 T]() **06/20/23**|JavaScript, Expressões regulares|
 |[Day 43 W]() **06/21/23**|JavaScript, Expressões regulares|[Day 44 R]() **06/22/23**|JavaScript, Expressões regulares|
 |[Day 45 F]() **06/23/23**|JavaScript, Debugging|[Day 46 S]() **06/24/23**|JavaScript, Python, Arrays, FlappyBird|
-|[Day 47 U]() **06/25/23**|JavaScript, Python, Objetos, FlappyBird|
+|[Day 47 U]() **06/25/23**|JavaScript, Python, Objetos, FlappyBird|[Day 48 M]() **06/26/23**|JavaScript, Python|
 ----------
 <a name="day-1"></a>
 ### Day 1: May 10, 2023 (Wed)
