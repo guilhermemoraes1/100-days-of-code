@@ -545,7 +545,16 @@ Continuei o projeto do tiktok e juntei com o firebase (primeira vez que uso) pra
  <a name="day-41"></a>
 ### Day 41: June 19, 2023 (Mon)
 
--
+- Dia de tornar o projeto do tiktok responsivo, e com isso, finalizando ele. Agora, tenho que aprender a usar variáveis de ambiente (spoiler do futuro, não consegui usar nesse projeto).
+
+[Table of Contents](#toc)
+
+ ----------
+ <a name="day-42"></a>
+### Day 42: June 20, 2023 (Tues)
+
+- Hoje não foi o dia de codar🥲, no firebase adicionei mais 1 vídeo no clone do tiktok, quero adicionar mais.
+- Mexi também um pouco com expressões regulares no js da @freecodecamp.
 
 [Table of Contents](#toc)
 
