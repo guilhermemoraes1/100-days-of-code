@@ -26,11 +26,11 @@
 | [Day 35 T](#day-35) **06/13/23** |       Python, JavaScript, HTML, CSS, BootStrap       | [Day 36 W](#day-36) **06/14/23** |       Python, JavaScript, HTML, CSS, React        |
 | [Day 37 R](#day-37) **06/15/23** |            Python, JavaScript, CSS, React            | [Day 38 F](#day-38) **06/16/23** |          Python, JavaScript, CSS, React           |
 | [Day 39 S](#day-39) **06/17/23** | Python, JavaScript, CSS, React, Expressões regulares | [Day 40 U](#day-40) **06/18/23** |         JavaScript, CSS, React, Firebase          |
-| [Day 41 M](#day-41) **06/19/23** |           JavaScript, Expressões regulares           |    [Day 42 T]() **06/20/23**     |         JavaScript, Expressões regulares          |
-|    [Day 43 W]() **06/21/23**     |           JavaScript, Expressões regulares           |    [Day 44 R]() **06/22/23**     |         JavaScript, Expressões regulares          |
-|    [Day 45 F]() **06/23/23**     |                JavaScript, Debugging                 |    [Day 46 S]() **06/24/23**     |      JavaScript, Python, Arrays, FlappyBird       |
-|    [Day 47 U]() **06/25/23**     |       JavaScript, Python, Objetos, FlappyBird        |    [Day 48 M]() **06/26/23**     |                JavaScript, Python                 |
-|    [Day 49 T]() **06/27/23**     |                  Python, FlappyBird                  |
+| [Day 41 M](#day-41) **06/19/23** |           JavaScript, Expressões regulares           |    [Day 42 T](#day-42) **06/20/23**     |         JavaScript, Expressões regulares          |
+|    [Day 43 W](#day-43) **06/21/23**     |           JavaScript, Expressões regulares           |    [Day 44 R](#day-44) **06/22/23**     |         JavaScript, Expressões regulares          |
+|    [Day 45 F](#day-45) **06/23/23**     |                JavaScript, Debugging                 |    [Day 46 S](#day-46) **06/24/23**     |      JavaScript, Python, Arrays, FlappyBird       |
+|    [Day 47 U](#day-47) **06/25/23**     |       JavaScript, Python, Objetos, FlappyBird        |    [Day 48 M](#day-48) **06/26/23**     |                JavaScript, Python                 |
+|    [Day 49 T](#day-49) **06/27/23**     |                  Python, FlappyBird                  |
 
 ---
 
@@ -668,6 +668,69 @@ Links:
 
 - Hoje não foi o dia de codar🥲, no firebase adicionei mais 1 vídeo no clone do tiktok, quero adicionar mais.
 - Mexi também um pouco com expressões regulares no js da @freecodecamp.
+
+[Table of Contents](#toc)
+
+---
+<a name="day-43"></a>
+
+### Day 43: June 21, 2023 (Tues)
+
+- 
+
+[Table of Contents](#toc)
+
+---
+<a name="day-44"></a>
+
+### Day 44: June 22, 2023 (Tues)
+
+- 
+
+[Table of Contents](#toc)
+
+---
+<a name="day-45"></a>
+
+### Day 45: June 23, 2023 (Tues)
+
+- 
+
+[Table of Contents](#toc)
+
+---
+<a name="day-46"></a>
+
+### Day 46: June 24, 2023 (Tues)
+
+- 
+
+[Table of Contents](#toc)
+
+---
+<a name="day-47"></a>
+
+### Day 47: June 25, 2023 (Tues)
+
+- 
+
+[Table of Contents](#toc)
+
+---
+<a name="day-48"></a>
+
+### Day 48: June 26, 2023 (Tues)
+
+- 
+
+[Table of Contents](#toc)
+
+---
+<a name="day-49"></a>
+
+### Day 49: June 27, 2023 (Tues)
+
+- 
 
 [Table of Contents](#toc)
 
