@@ -30,7 +30,7 @@
 |    [Day 43 W](#day-43) **06/21/23**     |           JavaScript, Expressões regulares           |    [Day 44 R](#day-44) **06/22/23**     |         JavaScript, Expressões regulares          |
 |    [Day 45 F](#day-45) **06/23/23**     |                JavaScript, Debugging                 |    [Day 46 S](#day-46) **06/24/23**     |      JavaScript, Python, Arrays, FlappyBird       |
 |    [Day 47 U](#day-47) **06/25/23**     |       JavaScript, Python, Objetos, FlappyBird        |    [Day 48 M](#day-48) **06/26/23**     |                JavaScript, Python                 |
-|    [Day 49 T](#day-49) **06/27/23**     |                  Python, FlappyBird                  |
+|    [Day 49 T](#day-49) **06/27/23**     |                  Python, FlappyBird                  |    [Day 50 T](#day-50) **06/27/23**     |                  Python, FlappyBird                  |
 
 ---
 
@@ -730,7 +730,19 @@ Links:
 
 ### Day 49: June 27, 2023 (Tues)
 
-- 
+- Assisti uma live muito daora de JavaScript com a íncrivel
+Comecei um novo webinar gratuito na ebac de Análise de Dados Reais com Python.
+A primeira aula foi pra conhecer a ferramenta do Google Colab.
+flappy bird - python
+
+[Table of Contents](#toc)
+
+---
+<a name="day-50"></a>
+
+### Day 50: June 28, 2023 (Tues)
+
+-
 
 [Table of Contents](#toc)
 
